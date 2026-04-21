@@ -1,81 +1,91 @@
-# 👋 Hi, I'm Kapil Dev
-
-🚀 Full-Stack Software Engineer (MERN) | AI/ML Enthusiast
-🎯 Founder @ Zippin Full-Stack Solutions
-📍 Himachal Pradesh, India
-
----
-
-## 💡 About Me
-
-I’m a B.Tech CSE student with **2+ years of real-world development experience**, building production-grade applications for actual clients.
-
-🔹 Built and deployed **6+ full-stack applications**
-🔹 Worked with **real businesses (Hotspot, Wellfire)**
-🔹 Specialized in **MERN Stack + AI (OpenCV)**
-🔹 Passionate about **startups & scalable systems**
+KAPIL DEV
+Full-Stack Software Engineer (MERN) | AI/ML Engineer
+Himachal Pradesh, India
++91-7650965133 | 📧 [kapil16072004@gmail.com](mailto:kapil16072004@gmail.com)
+GitHub: https://github.com/kapildev1012
+LinkedIn: https://linkedin.com/in/kapil-dev-2a48103a7
 
 ---
 
-## 🛠️ Tech Stack
+PROFESSIONAL SUMMARY
 
-**Frontend:**
-React.js, Next.js, Tailwind CSS, Redux, Framer Motion
-
-**Backend:**
-Node.js, Express.js, REST APIs, WebRTC
-
-**Database:**
-MongoDB, MySQL
-
-**AI/ML:**
-Python, OpenCV, NumPy, Scikit-learn
+Full-Stack Software Engineer with 2+ years of experience building and deploying scalable web applications using the MERN stack. Proven track record of delivering production-grade systems for real clients across e-commerce, fitness, and inventory management domains. Experienced in backend architecture, REST API design, and integrating AI-based solutions using OpenCV. Strong foundation in Data Structures & Algorithms and system design, with a focus on building efficient and real-world usable systems.
 
 ---
 
-## 🚀 Featured Projects
+TECHNICAL SKILLS
 
-### 🛒 E-Commerce Marketplace
-
-Amazon-style full-stack platform with product variations, reviews & checkout
-👉 [View Project](https://github.com/kapildev1012)
-
----
-
-### 🏋️ Gym Management System
-
-Membership tiers, analytics dashboard & renewal automation
-👉 [View Project](https://github.com/kapildev1012)
+**Languages:** JavaScript (ES6+), Python, Java, C
+**Frontend:** React.js, Next.js, Tailwind CSS, Redux, HTML5, CSS3
+**Backend:** Node.js, Express.js, REST APIs, WebRTC, JWT Authentication
+**Database:** MongoDB (Mongoose), MySQL
+**AI/ML:** OpenCV, NumPy, Pandas, Scikit-learn
+**Tools:** Git, GitHub, Postman, VS Code, Jupyter Notebook, Vercel, Netlify
 
 ---
 
-### 📦 Multi-Store Inventory System
+PROFESSIONAL EXPERIENCE
+Founder & Lead Developer
+Zippin Full-Stack Solutions | Jan 2023 – Present
 
-Used by real food chains with real-time analytics
-👉 [View Project](https://github.com/kapildev1012)
-
----
-
-### 🤖 AI Attendance System
-
-Facial recognition-based automated attendance using OpenCV
-👉 [View Project](https://github.com/kapildev1012)
-
----
-
-## 📊 GitHub Stats
-
-![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapildev1012\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapildev1012\&layout=compact\&theme=tokyonight)
+* Designed and deployed a **multi-store inventory management system** used by food chain clients, enabling real-time tracking of orders and revenue analytics
+* Built a **Gym Management Platform** supporting tier-based memberships, automated renewal tracking, and analytics dashboards
+* Developed a **full-scale e-commerce marketplace** with product variations, cart system, and order workflows using MERN stack
+* Engineered an **AI-based facial recognition attendance system** using OpenCV, eliminating manual attendance processes
+* Built a **real-time surveillance system** for identity detection using Python and computer vision
+* Managed end-to-end development lifecycle including requirement analysis, system design, development, and deployment
 
 ---
 
-## 🌐 Connect With Me
+PROJECTS
 
-📧 [kapil16072004@gmail.com](mailto:kapil16072004@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/kapil-dev-2a48103a7
+E-Commerce Marketplace (MERN Stack)
+
+* Developed a scalable marketplace with product filtering, variations, cart, and checkout flow
+* Implemented Redux-based state management and RESTful backend architecture
+
+Gym Management System
+
+* Built a membership management system with automated renewal tracking and analytics dashboard
+* Improved operational efficiency through automation of manual processes
+
+Inventory Management System
+
+* Designed a multi-store inventory tracking system with real-time analytics for business operations
+* Implemented role-based access control and efficient data querying
+
+AI Attendance System
+
+* Developed facial recognition-based attendance system using OpenCV and Python
+* Automated attendance tracking with high accuracy
+
+Virtual Class Platform
+
+* Built a WebRTC-based video conferencing platform with real-time communication features
 
 ---
 
-⭐ *“Building real-world products > just solving problems”*
+EDUCATION
+B.Tech – Computer Science & Engineering**
+Himachal Pradesh Technical University (2023 – 2027)
+
+---
+
+ACHIEVEMENTS
+
+* Delivered **5+ production-grade applications** for real-world clients
+* Founded a development initiative focused on full-stack solutions
+* Organized and hosted a technical fest with **500+ participants**
+* Led multiple engineering project teams in DSA and AI domains
+
+---
+
+INTERESTS
+
+* Scalable System Design
+* Artificial Intelligence in Real-World Applications
+* Tech Startups & Entrepreneurship
+* UI/UX Design
+
+---
+
