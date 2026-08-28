@@ -55,26 +55,48 @@
 
 ## &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-```js
-const kapilDev = {
+Hello! I'm **Kapil Dev**, a highly driven **Full-Stack Software Engineer** and **AI Researcher** based in India. 
+
+I specialize in architecting highly scalable distributed systems, developing zero-exploit Web3 smart contracts, and exploring state-of-the-art Joint-Embedding Predictive Architectures (V-JEPA) for Computer Vision. 
+
+Currently, I serve as the Founder & Lead Architect at **Zippin Full-Stack Solutions**, where I deliver enterprise-grade web applications focusing on real-time data streaming (WebRTC/Sockets), Server-Side Rendering (Next.js), and robust, low-latency APIs.
+
+When I'm not deploying smart contracts or collaborating on Vision Transformers at **IIT Mandi**, I'm actively contributing to open-source ecosystems and scaling production platforms.
+
+<br/>
+
+**`✦ MISSION:`** *Bridging the gap between decentralized protocols, artificial intelligence, and elegant user experiences.*
+
+</td>
+<td width="35%" align="center" valign="top">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%"/>
+</td>
+</tr>
+</table>
+
+```javascript
+const developer = {
+  name:      "Kapil Dev",
   location:  "Hamirpur, Himachal Pradesh, India 🇮🇳",
   education: "B.Tech CSE — HPTU (2023–2027)",
   role:      "Founder & Lead Architect @ Zippin Full-Stack Solutions",
 
-  code: [
-    "JavaScript", "TypeScript", "Python",
-    "Solidity", "C++", "Java", "SQL"
+  core_competencies: [
+    "JavaScript/TypeScript", "Python", "Solidity", 
+    "System Design", "Microservices", "Tensegrity Robotics"
   ],
 
   technologies: {
-    frontend:   ["React.js", "Next.js (SSR/SSG/ISR)", "Tailwind CSS", "Redux Toolkit", "Zustand"],
-    backend:    ["Node.js", "Express.js", "RESTful APIs", "GraphQL", "WebSockets", "WebRTC"],
-    blockchain: ["Solidity", "Ethereum", "Ethers.js", "Web3.js", "Hardhat", "MetaMask"],
-    ai_ml:      ["PyTorch", "OpenCV", "Scikit-Learn", "NumPy", "Pandas", "ViT", "V-JEPA"],
-    databases:  ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Mongoose ODM", "Prisma"],
-    devOps:     ["Docker", "GitHub Actions", "CI/CD", "Vercel", "Netlify", "Linux/Bash"]
+    frontend:   ["React.js", "Next.js (SSR/SSG/ISR)", "Tailwind CSS", "Redux/Zustand"],
+    backend:    ["Node.js", "Express.js", "GraphQL", "WebSockets", "WebRTC"],
+    blockchain: ["Solidity", "Ethereum", "Ethers.js", "Hardhat", "MetaMask"],
+    ai_ml:      ["PyTorch", "OpenCV", "Scikit-Learn", "NumPy", "ViT", "V-JEPA"],
+    databases:  ["MongoDB", "PostgreSQL", "Redis", "Mongoose ODM", "Prisma"],
+    devOps:     ["Docker", "GitHub Actions", "CI/CD", "Vercel", "Linux/Bash"]
   },
 
   research: "Self-Supervised Vision Transformers (V-JEPA/ViT) @ IIT Mandi",
@@ -82,8 +104,6 @@ const kapilDev = {
   funFact:  "I ship features faster than I ship bugs 🚀"
 };
 ```
-
-<br clear="right"/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!-- ═══════════════════ § 2 — QUICK DEV HIGHLIGHTS ═════════════════════ -->
