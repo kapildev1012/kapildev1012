@@ -26,13 +26,16 @@
   <p>
     <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kapildev1012"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;&nbsp;
-    <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;&nbsp;
     <a href="https://wa.me/917650965133"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
   </p>
 
   <p>
+    <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;&nbsp;
     <a href="https://github.com/kapildev1012"><img src="https://komarev.com/ghpvc/?username=kapildev1012&color=39D353&style=for-the-badge&label=Profile+Views" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/kapildev1012?tab=followers"><img src="https://img.shields.io/github/followers/kapildev1012?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/kapildev1012?tab=followers"><img src="https://img.shields.io/github/followers/kapildev1012?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" /></a>
+  </p>
+
+  <p>
     <img src="https://img.shields.io/badge/Open_Source-❤️-39D353?style=for-the-badge" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Status-Open_for_Roles_&_Consulting-brightgreen?style=for-the-badge" />
   </p>
