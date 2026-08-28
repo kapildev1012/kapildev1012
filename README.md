@@ -110,17 +110,19 @@ const developer = {
 
 ## &nbsp;📊&nbsp; Advanced Profile Overview
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center">
   <a href="https://github.com/kapildev1012">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapildev1012&bg_color=0d1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true&custom_title=31-Day%20Contribution%20Activity" width="100%" alt="Activity Graph" />
   </a>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
-
   <a href="https://github.com/kapildev1012">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapildev1012&theme=chartreuse-dark" width="100%" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapildev1012&theme=github_dark" width="100%" alt="Profile Details" />
   </a>
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
