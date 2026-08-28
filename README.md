@@ -472,7 +472,9 @@ const developer = {
 ## &nbsp;🏆&nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapildev1012&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" width="100%" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kapildev1012&title=39D353&icon=39D353&text=c9d1d9&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Kapil Dev's GitHub Trophies" />
+  </a>
 </div>
 
 <br/>
