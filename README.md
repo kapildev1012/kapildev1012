@@ -30,110 +30,110 @@ Results-driven **Full Stack Software Engineer** and **Technical Founder** with 2
 
 ---
 
-## 🏆 Featured Products & Repositories (Rank-Wise Showcase)
+## 🚀 Featured Products & Repositories
 
-All repositories are ranked based on architectural complexity, production readiness, and technology scope:
+An overview of open-source projects, decentralized platforms, and production systems:
 
-| Rank | Project Name | Category & Domain | Primary Tech Stack | Live Demo / Repo |
-|:---:|:---|:---|:---|:---:|
-| 🥇 **01** | **[Voting DApp](#1-decentralized-voting-application-voting-)** | Web3 / Blockchain / E-Voting | `Solidity` `Ethereum` `Web3.js` `React` `Node.js` | [💻 Repository](https://github.com/kapildev1012/voting) |
-| 🥈 **02** | **[The Wellfire](#2-the-wellfire-media-investment-portal-wellfirenew2-)** | Fintech / Crowdfunding / SaaS | `React.js` `Node.js` `Express` `MongoDB` `Razorpay` | [🌐 Live App](https://wellfire-new2.vercel.app) • [💻 Repo](https://github.com/kapildev1012/wellfire.new2) |
-| 🥉 **03** | **[Forever E-Commerce](#3-forever-full-stack-e-commerce-forever-full-stack_1-)** | Production MERN E-Commerce | `React` `Next.js` `Node.js` `MongoDB` `Stripe` | [💻 Repository](https://github.com/kapildev1012/forever-full-stack_1) |
-| 🏅 **04** | **[Filmora Movie Streaming](#4-filmora-movie-discovery--streaming-engine-filmoramovie-)** | Entertainment / Media Streaming | `TypeScript` `Next.js` `React` `TMDB API` `Tailwind` | [🌐 Live App](https://filmoramovie.vercel.app) • [💻 Repo](https://github.com/kapildev1012/filmoramovie) |
-| 🏅 **05** | **[Jarvis AI Assistant](#5-jarvis-ai-virtual-assistant-jarvis-)** | AI/ML / NLP & Speech Automation | `Python` `NLP` `SpeechRecognition` `OpenCV` `OS API` | [💻 Repository](https://github.com/kapildev1012/jarvis) |
-| 🏅 **06** | **[3D Graphics & Simulation](#6-3d-graphics--spatial-simulation-engine-3d-)** | Computer Vision / 3D Graphics | `JavaScript` `WebGL` `Three.js` `MATLAB` `MathLib` | [💻 Repository](https://github.com/kapildev1012/3d) |
-| 🏅 **07** | **[Robotics Locomotion](#7-robotics-locomotion--kinematics-system-locomotion-)** | Robotics & Kinematics Control | `C++` `Robotics Kinematics` `Physics Engine` `Algorithms` | [💻 Repository](https://github.com/kapildev1012/locomotion) |
-| 🏅 **08** | **[HotSpot Real-Time Delivery](#8-hotspot-real-time-food-delivery-hotspotnew-)** | Real-Time Geolocation Delivery | `TypeScript` `React` `Node.js` `WebRTC` `Socket.io` | [💻 Repository](https://github.com/kapildev1012/hotspot.new) |
-| 🏅 **09** | **[WoodKing Enterprise Portal](#9-woodking-bespoke-furniture-portal-woodking-)** | Enterprise E-Commerce Catalog | `JavaScript` `React` `Node.js` `Express` `MongoDB` | [💻 Repository](https://github.com/kapildev1012/WOODKING) |
-| 🏅 **10** | **[Devil's Movies Portal](#10-devils-movies-cinema-ui-devilsmovies-)** | Front-End Multimedia UI/UX | `HTML5` `CSS3 / Grid` `JavaScript` `Responsive UI` | [💻 Repository](https://github.com/kapildev1012/devilsmovies) |
-| 🏅 **11** | **[Interactive Portfolio](#11-developer-portfolio-platform-portfolio-)** | Personal Branding & UI Platform | `React.js` `Next.js` `Framer Motion` `Tailwind CSS` | [🌐 Live App](https://kapildev1012.vercel.app) • [💻 Repo](https://github.com/kapildev1012/portfolio) |
-| 🏅 **12** | **[GitLab CI/CD Pipelines](#12-devops--automated-cicd-pipelines-gitlab-project-)** | Cloud & DevOps Automation | `GitLab CI` `Docker` `Shell Scripting` `YAML` | [💻 Repository](https://github.com/kapildev1012/gitlab-project) |
+| Project Name | Category & Domain | Primary Tech Stack | Live Demo / Repo |
+|:---|:---|:---|:---:|
+| **[Voting DApp](#-decentralized-voting-application-voting)** | Web3 / Blockchain / E-Voting | `Solidity` `Ethereum` `Web3.js` `React` `Node.js` | [💻 Repository](https://github.com/kapildev1012/voting) |
+| **[The Wellfire](#-the-wellfire-media-investment-portal-wellfirenew2)** | Fintech / Crowdfunding / SaaS | `React.js` `Node.js` `Express` `MongoDB` `Razorpay` | [🌐 Live App](https://wellfire-new2.vercel.app) • [💻 Repo](https://github.com/kapildev1012/wellfire.new2) |
+| **[Forever E-Commerce](#-forever-full-stack-e-commerce-forever-full-stack_1)** | Production MERN E-Commerce | `React` `Next.js` `Node.js` `MongoDB` `Stripe` | [💻 Repository](https://github.com/kapildev1012/forever-full-stack_1) |
+| **[Filmora Movie Streaming](#-filmora-movie-discovery--streaming-engine-filmoramovie)** | Entertainment / Media Streaming | `TypeScript` `Next.js` `React` `TMDB API` `Tailwind` | [🌐 Live App](https://filmoramovie.vercel.app) • [💻 Repo](https://github.com/kapildev1012/filmoramovie) |
+| **[Jarvis AI Assistant](#-jarvis-ai-virtual-assistant-jarvis)** | AI/ML / NLP & Speech Automation | `Python` `NLP` `SpeechRecognition` `OpenCV` `OS API` | [💻 Repository](https://github.com/kapildev1012/jarvis) |
+| **[3D Graphics & Simulation](#-3d-graphics--spatial-simulation-engine-3d)** | Computer Vision / 3D Graphics | `JavaScript` `WebGL` `Three.js` `MATLAB` `MathLib` | [💻 Repository](https://github.com/kapildev1012/3d) |
+| **[Robotics Locomotion](#-robotics-locomotion--kinematics-system-locomotion)** | Robotics & Kinematics Control | `C++` `Robotics Kinematics` `Physics Engine` `Algorithms` | [💻 Repository](https://github.com/kapildev1012/locomotion) |
+| **[HotSpot Real-Time Delivery](#-hotspot-real-time-food-delivery-hotspotnew)** | Real-Time Geolocation Delivery | `TypeScript` `React` `Node.js` `WebRTC` `Socket.io` | [💻 Repository](https://github.com/kapildev1012/hotspot.new) |
+| **[WoodKing Enterprise Portal](#-woodking-bespoke-furniture-portal-woodking)** | Enterprise E-Commerce Catalog | `JavaScript` `React` `Node.js` `Express` `MongoDB` | [💻 Repository](https://github.com/kapildev1012/WOODKING) |
+| **[Devil's Movies Portal](#-devils-movies-cinema-ui-devilsmovies)** | Front-End Multimedia UI/UX | `HTML5` `CSS3 / Grid` `JavaScript` `Responsive UI` | [💻 Repository](https://github.com/kapildev1012/devilsmovies) |
+| **[Interactive Portfolio](#-developer-portfolio-platform-portfolio)** | Personal Branding & UI Platform | `React.js` `Next.js` `Framer Motion` `Tailwind CSS` | [🌐 Live App](https://kapildev1012.vercel.app) • [💻 Repo](https://github.com/kapildev1012/portfolio) |
+| **[GitLab CI/CD Pipelines](#-devops--automated-cicd-pipelines-gitlab-project)** | Cloud & DevOps Automation | `GitLab CI` `Docker` `Shell Scripting` `YAML` | [💻 Repository](https://github.com/kapildev1012/gitlab-project) |
 
 ---
 
-### Detailed Project Deep-Dives
+### Project Spotlights & Architecture
 
-#### 1. 🗳️ [Decentralized Voting Application (Voting)](https://github.com/kapildev1012/voting) `Rank 1`
-- **Architecture:** Decentralized, tamper-proof electronic voting platform engineered using Ethereum Smart Contracts, Solidity, Web3.js, React.js, and Node.js.
-- **Key Features:**
+#### 🗳️ [Decentralized Voting Application (voting)](https://github.com/kapildev1012/voting)
+- **Overview:** Decentralized, tamper-proof electronic voting platform engineered using Ethereum Smart Contracts, Solidity, Web3.js, React.js, and Node.js.
+- **Key Capabilities:**
   - Cryptographic voter authentication and ballot casting with zero double-voting vulnerability.
   - Transparent on-chain tallying with immutable distributed ledger storage.
   - Interactive Web3 frontend connecting MetaMask wallets directly to contract ABI interfaces.
 - **Keywords:** `Blockchain`, `Solidity`, `Smart Contracts`, `Web3.js`, `Ethereum`, `MetaMask`, `DApp`, `Cryptography`.
 
-#### 2. 💼 [The Wellfire Media Investment Portal (wellfire.new2)](https://github.com/kapildev1012/wellfire.new2) `Rank 2`
+#### 💼 [The Wellfire Media Investment Portal (wellfire.new2)](https://github.com/kapildev1012/wellfire.new2)
 - **Live URL:** [https://wellfire-new2.vercel.app](https://wellfire-new2.vercel.app)
-- **Architecture:** Full-stack media crowdfunding & investment platform connecting content creators with accredited investors.
-- **Key Features:**
+- **Overview:** Full-stack media crowdfunding & investment platform connecting content creators with accredited investors.
+- **Key Capabilities:**
   - Strict Role-Based Access Control (RBAC) separating Investor, Creator, and Administrator dashboards.
   - Razorpay payment gateway integration, secure transaction processing, and automated ledger receipts.
   - Dynamic analytics charts displaying project campaign funding metrics and milestone timelines.
 - **Keywords:** `FinTech`, `Crowdfunding`, `MERN Stack`, `RBAC`, `Payment Gateway`, `Vercel`, `REST APIs`.
 
-#### 3. 🛍️ [Forever Full-Stack E-Commerce (forever-full-stack_1)](https://github.com/kapildev1012/forever-full-stack_1) `Rank 3`
-- **Architecture:** Production-ready MERN enterprise e-commerce platform built for high concurrency and seamless user journeys.
-- **Key Features:**
+#### 🛍️ [Forever Full-Stack E-Commerce (forever-full-stack_1)](https://github.com/kapildev1012/forever-full-stack_1)
+- **Overview:** Production-ready MERN enterprise e-commerce platform built for high concurrency and seamless user journeys.
+- **Key Capabilities:**
   - End-to-end shopping experience: dynamic catalog filtering, multi-item cart management, and Stripe checkout.
   - Comprehensive Admin Panel for product inventory management, stock alerts, and order fulfillment status updates.
   - JWT token-based authentication with bcrypt password hashing and MongoDB indexing for sub-second query latency.
 - **Keywords:** `E-Commerce`, `Stripe Payments`, `MERN Stack`, `JWT`, `Redux Toolkit`, `Inventory Control`.
 
-#### 4. 🎬 [Filmora Movie Discovery & Streaming Engine (filmoramovie)](https://github.com/kapildev1012/filmoramovie) `Rank 4`
+#### 🎬 [Filmora Movie Discovery & Streaming Engine (filmoramovie)](https://github.com/kapildev1012/filmoramovie)
 - **Live URL:** [https://filmoramovie.vercel.app](https://filmoramovie.vercel.app)
-- **Architecture:** Modern entertainment discovery portal engineered with TypeScript, Next.js, and TMDB REST APIs.
-- **Key Features:**
+- **Overview:** Modern entertainment discovery portal engineered with TypeScript, Next.js, and TMDB REST APIs.
+- **Key Capabilities:**
   - Real-time search, category filtering, trending cinema algorithms, and multi-language subtitle previews.
-  - Optimized client-side caching and Next.js Server-Side Rendering (SSR) for blazing-fast SEO score of 98+.
+  - Optimized client-side caching and Next.js Server-Side Rendering (SSR) for fast page loading and SEO indexing.
 - **Keywords:** `TypeScript`, `Next.js`, `TMDB API`, `SSR`, `Entertainment SaaS`, `Responsive UI`.
 
-#### 5. 🤖 [Jarvis AI Virtual Assistant (jarvis)](https://github.com/kapildev1012/jarvis) `Rank 5`
-- **Architecture:** Python-powered intelligent voice assistant utilizing Speech Recognition, Natural Language Processing (NLP), and OS-level system automation.
-- **Key Features:**
+#### 🤖 [Jarvis AI Virtual Assistant (jarvis)](https://github.com/kapildev1012/jarvis)
+- **Overview:** Python-powered intelligent voice assistant utilizing Speech Recognition, Natural Language Processing (NLP), and OS-level system automation.
+- **Key Capabilities:**
   - Voice-activated task automation, real-time web querying, Wikipedia lookups, and multimedia playback.
   - Extensible modular architecture allowing custom skills, computer vision triggers, and automated system commands.
 - **Keywords:** `Python`, `Artificial Intelligence`, `NLP`, `Speech Recognition`, `System Automation`.
 
-#### 6. 📐 [3D Graphics & Spatial Simulation Engine (3d)](https://github.com/kapildev1012/3d) `Rank 6`
-- **Architecture:** High-performance spatial geometry and 3D simulation pipeline implementing WebGL, Three.js, and MATLAB mathematical computing models.
-- **Key Features:**
+#### 📐 [3D Graphics & Spatial Simulation Engine (3d)](https://github.com/kapildev1012/3d)
+- **Overview:** High-performance spatial geometry and 3D simulation pipeline implementing WebGL, Three.js, and MATLAB mathematical computing models.
+- **Key Capabilities:**
   - Real-time 3D coordinate transformations, mesh rendering, matrix manipulations, and interactive lighting physics.
 - **Keywords:** `3D Visualization`, `WebGL`, `Three.js`, `MATLAB`, `Matrix Mathematics`, `Simulation`.
 
-#### 7. 🦾 [Robotics Locomotion & Kinematics System (locomotion)](https://github.com/kapildev1012/locomotion) `Rank 7`
-- **Architecture:** Computational C++ algorithmic engine for multi-joint robotic kinematics, trajectory calculations, and locomotion physics simulations.
-- **Key Features:**
+#### 🦾 [Robotics Locomotion & Kinematics System (locomotion)](https://github.com/kapildev1012/locomotion)
+- **Overview:** Computational C++ algorithmic engine for multi-joint robotic kinematics, trajectory calculations, and locomotion physics simulations.
+- **Key Capabilities:**
   - Forward and inverse kinematics solvers with high numerical precision and low CPU overhead.
 - **Keywords:** `C++`, `Robotics`, `Kinematics`, `Trajectory Planning`, `Physics Simulation`, `Algorithms`.
 
-#### 8. 🍔 [HotSpot Real-Time Food Delivery (hotspot.new)](https://github.com/kapildev1012/hotspot.new) `Rank 8`
-- **Architecture:** Real-time food ordering and live dispatch tracking application built with TypeScript, React, and WebSocket/WebRTC communication.
-- **Key Features:**
+#### 🍔 [HotSpot Real-Time Food Delivery (hotspot.new)](https://github.com/kapildev1012/hotspot.new)
+- **Overview:** Real-time food ordering and live dispatch tracking application built with TypeScript, React, and WebSocket/WebRTC communication.
+- **Key Capabilities:**
   - Bi-directional order status updates between restaurants, drivers, and consumers.
   - Dynamic interactive cart, menu modifiers, and geolocation routing.
 - **Keywords:** `Real-Time Systems`, `WebRTC`, `Socket.io`, `TypeScript`, `Geolocation`, `Full-Stack`.
 
-#### 9. 🪵 [WoodKing Bespoke Furniture Portal (WOODKING)](https://github.com/kapildev1012/WOODKING) `Rank 9`
-- **Architecture:** Full-stack enterprise e-commerce platform for custom furniture ordering, woodwork portfolio management, and quotation generation.
-- **Key Features:**
+#### 🪵 [WoodKing Bespoke Furniture Portal (WOODKING)](https://github.com/kapildev1012/WOODKING)
+- **Overview:** Full-stack enterprise e-commerce platform for custom furniture ordering, woodwork portfolio management, and quotation generation.
+- **Key Capabilities:**
   - Dynamic product catalog, customer quotation request engine, and administrative content management.
 - **Keywords:** `E-Commerce`, `React.js`, `Node.js`, `Express`, `MongoDB`, `Enterprise Web`.
 
-#### 10. 🍿 [Devil's Movies Cinema UI (devilsmovies)](https://github.com/kapildev1012/devilsmovies) `Rank 10`
-- **Architecture:** Interactive multimedia web UI featuring customized dark-mode aesthetic styling, CSS grid animations, and fluid media viewers.
-- **Key Features:**
+#### 🍿 [Devil's Movies Cinema UI (devilsmovies)](https://github.com/kapildev1012/devilsmovies)
+- **Overview:** Interactive multimedia web UI featuring customized dark-mode aesthetic styling, CSS grid animations, and fluid media viewers.
+- **Key Capabilities:**
   - High-performance responsive UI optimized for low-latency rendering across diverse browser engines.
 - **Keywords:** `Front-End Engineering`, `CSS3 Grid`, `JavaScript`, `Dark Mode UI`, `Web Animation`.
 
-#### 11. 🌐 [Developer Portfolio Platform (portfolio)](https://github.com/kapildev1012/portfolio) `Rank 11`
+#### 🌐 [Developer Portfolio Platform (portfolio)](https://github.com/kapildev1012/portfolio)
 - **Live URL:** [https://kapildev1012.vercel.app](https://kapildev1012.vercel.app)
-- **Architecture:** Interactive developer portfolio showcasing engineering capabilities, client case studies, live previews, and contact endpoints.
-- **Key Features:**
+- **Overview:** Interactive developer portfolio showcasing engineering capabilities, client case studies, live previews, and contact endpoints.
+- **Key Capabilities:**
   - Responsive design, fluid Framer Motion transitions, and continuous deployment via Vercel.
 - **Keywords:** `Portfolio`, `React`, `Next.js`, `UI/UX Design`, `Vercel Deployment`.
 
-#### 12. ⚙️ [DevOps & Automated CI/CD Pipelines (gitlab-project)](https://github.com/kapildev1012/gitlab-project) `Rank 12`
-- **Architecture:** Continuous Integration and Continuous Deployment infrastructure automation scripts and containerized build setups.
-- **Key Features:**
+#### ⚙️ [DevOps & Automated CI/CD Pipelines (gitlab-project)](https://github.com/kapildev1012/gitlab-project)
+- **Overview:** Continuous Integration and Continuous Deployment infrastructure automation scripts and containerized build setups.
+- **Key Capabilities:**
   - Multi-stage pipeline definitions, automated testing scripts, and container packaging.
 - **Keywords:** `DevOps`, `CI/CD`, `Docker`, `GitLab CI`, `Automation`, `Bash Scripting`.
 
