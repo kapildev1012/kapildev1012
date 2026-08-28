@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════ ANIMATED WAVE HEADER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:006d32,75:26a641,100:39d353&height=240&section=header&text=KAPIL%20DEV&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Web3%20Architect%20%E2%80%A2%20AI%20Researcher&descAlignY=56&descSize=20&descColor=c9d1d9" width="100%"/>
+<img src="./assets/header.png" width="100%" alt="Kapil Dev - Portfolio Header" />
 
 <div align="center">
 
