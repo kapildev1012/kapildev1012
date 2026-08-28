@@ -444,21 +444,9 @@ const developer = {
 
 <div align="center">
 
-<!-- Profile Details -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapildev1012&theme=github_dark" width="100%" />
-</p>
-
-<!-- Stats + Productive Time -->
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapildev1012&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapildev1012&theme=github_dark&utcOffset=5.5" width="49%" />
-</p>
-
-<!-- Languages -->
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapildev1012&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapildev1012&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kapildev1012&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kapildev1012&layout=compact&hide_border=true&title_color=39D353&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Top Languages" />
 </p>
 
 <br/>
@@ -466,10 +454,8 @@ const developer = {
 ### 🔥 Contribution Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=kapildev1012&theme=github-dark-blue&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=6e7681" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=kapildev1012&hide_border=true&border_radius=15&bg_color=0d1117&title_color=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=39D353" width="55%" alt="GitHub Streak" />
 </p>
-
-
 
 </div>
 
