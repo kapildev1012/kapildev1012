@@ -4,39 +4,42 @@
 <!-- ║  Founder @ Zippin Full-Stack Solutions                                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════ ANIMATED WAVE HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
 
 <img src="./assets/header.png" width="100%" alt="Kapil Dev - Portfolio Header" />
 
 <div align="center">
 
+<br/>
+
+<h1>Hi, I'm Kapil Dev <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="38"></h1>
+<h3><b>A passionate Full-Stack Engineer & AI Researcher crafting elegant architectures and scalable systems.</b></h3>
+
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=600&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=140&lines=%E2%9A%A1+Full+Stack+Software+Engineer+(MERN+%26+Next.js);%F0%9F%94%97+Smart+Contract+%26+Web3+Blockchain+Developer;%F0%9F%A7%A0+AI%2C+Vision+Transformers+%26+Robotics+Researcher;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+%7C+5%2C500%2B+Contributions;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full+Stack+Software+Engineer+(MERN+%26+Next.js);%F0%9F%94%97+Smart+Contract+%26+Web3+Blockchain+Developer;%F0%9F%A7%A0+AI%2C+Vision+Transformers+%26+Robotics+Researcher;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+%7C+5%2C500%2B+Contributions;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- ═══════════════════════ SOCIAL BADGES ROW ═══════════════════════ -->
+<!-- ═══════════════════════ SOCIAL & STATUS BADGES ═══════════════════════ -->
 
 <p>
-  <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/%E2%9C%A8_Live_Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kapildev1012"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;
-  <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Gmail-Direct_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;
-  <a href="https://wa.me/917650965133"><img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
+  <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kapildev1012"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;
+  <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;
+  <a href="https://wa.me/917650965133"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kapildev1012&color=39D353&style=flat-square&label=Profile+Views" />&nbsp;&nbsp;
-  <a href="https://github.com/kapildev1012?tab=followers"><img src="https://img.shields.io/github/followers/kapildev1012?style=flat-square&logo=github&logoColor=white&label=Followers&color=181717" /></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_Source-❤️-39D353?style=flat-square" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_for_Roles_&_Consulting-brightgreen?style=flat-square" />
+  <a href="https://github.com/kapildev1012"><img src="https://komarev.com/ghpvc/?username=kapildev1012&color=39D353&style=for-the-badge&label=Profile+Views" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/kapildev1012?tab=followers"><img src="https://img.shields.io/github/followers/kapildev1012?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open_Source-❤️-39D353?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_for_Roles_&_Consulting-brightgreen?style=for-the-badge" />
 </p>
 
 <br/>
-
-<!-- ═══════════════════════ STAR CALLOUT ═══════════════════════ -->
 
 **`⭐ Drop a star if you find my open-source projects, research, or architecture useful!`**
 
