@@ -516,10 +516,13 @@ const kapilDev = {
 <!-- ═══════════════════ § 11 — RANDOM DEV QUOTE ════════════════════════ -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;💭&nbsp; Daily Developer Inspiration
+## &nbsp;💭&nbsp; Inspiration & Humor
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="75%" alt="Developer Quote" />
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="49%" alt="Developer Quote" />
+    <img src="https://readme-jokes.vercel.app/api?theme=dark" width="49%" alt="Developer Joke" />
+  </p>
 </div>
 
 <br/>
