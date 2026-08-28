@@ -434,13 +434,7 @@ const kapilDev = {
   <img src="https://streak-stats.demolab.com?user=kapildev1012&theme=github-dark-blue&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=6e7681" width="55%" />
 </p>
 
-<br/>
 
-### 🟩 Year-Round Contribution Heatmap
-
-<p>
-  <img src="https://ghchart.rshah.org/39d353/kapildev1012" alt="Kapil Dev's Contribution Heatmap" width="100%" />
-</p>
 
 </div>
 
