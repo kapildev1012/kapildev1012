@@ -130,43 +130,39 @@ const developer = {
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="65"/>
-      <h2><b>10+</b></h2>
-      <p style="font-size: 15px;"><b>Production Web Apps</b><br/><sub>React, Next.js, Node.js</sub></p>
-      <br/>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60"/>
+      <h3><b>10+ Production Web Apps</b></h3>
+      <p style="font-size: 15px;"><sub>React, Next.js, Node.js</sub></p>
     </td>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="65"/>
-      <h2><b>100%</b></h2>
-      <p style="font-size: 15px;"><b>Tamper-Proof</b><br/><sub>Smart Contracts</sub></p>
-      <br/>
-    </td>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="65"/>
-      <h2><b>IIT Mandi</b></h2>
-      <p style="font-size: 15px;"><b>AI & Vision Research</b><br/><sub>V-JEPA, ViT, PyTorch</sub></p>
-      <br/>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="60"/>
+      <h3><b>100% Tamper-Proof</b></h3>
+      <p style="font-size: 15px;"><sub>Smart Contracts & Web3 protocols</sub></p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="65"/>
-      <h2><b>&lt; 120ms</b></h2>
-      <p style="font-size: 15px;"><b>P99 API Latency</b><br/><sub>Redis, WebSockets, Scaling</sub></p>
-      <br/>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60"/>
+      <h3><b>&lt; 120ms P99 Latency</b></h3>
+      <p style="font-size: 15px;"><sub>Redis, WebSockets, Distributed Scaling</sub></p>
     </td>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="65"/>
-      <h2><b>6,500+</b></h2>
-      <p style="font-size: 15px;"><b>Lifetime Commits</b><br/><sub>Open Source & Enterprise</sub></p>
-      <br/>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60"/>
+      <h3><b>6,500+ Lifetime Commits</b></h3>
+      <p style="font-size: 15px;"><sub>Open Source & Enterprise Development</sub></p>
     </td>
-    <td align="center" width="33%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="65"/>
-      <h2><b>99.9%</b></h2>
-      <p style="font-size: 15px;"><b>System Uptime</b><br/><sub>Docker, CI/CD, DevOps</sub></p>
-      <br/>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="60"/>
+      <h3><b>99.9% System Uptime</b></h3>
+      <p style="font-size: 15px;"><sub>Docker, CI/CD, and DevOps Pipelines</sub></p>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60"/>
+      <h3><b>IIT Mandi AI Research</b></h3>
+      <p style="font-size: 15px;"><sub>V-JEPA, Vision Transformers, PyTorch</sub></p>
     </td>
   </tr>
 </table>
@@ -182,69 +178,59 @@ const developer = {
 <div align="center">
 
 <table width="100%">
-<tr><td align="center">
-
-### `✦ Languages`
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,cpp,java,html,css&perline=8&theme=dark" />
-</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
-
-### `✦ Frontend Development`
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&perline=6&theme=dark" />
-</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
-
-### `✦ Backend & Protocols`
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline=6&theme=dark" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WebRTC-333?style=for-the-badge&logo=webrtc&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="38" />
-</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
-
-### `✦ Blockchain & Web3`
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge" height="38" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=000" height="38" />
-  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" height="38" />
-</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
-
-### `✦ Databases & Storage`
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4&theme=dark" />
-</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
-
-### `✦ AI / ML & Computer Vision`
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=6&theme=dark" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="38" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="38" />
-</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
-
-### `✦ DevOps & Cloud Tooling`
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,linux,vscode,postman&perline=9&theme=dark" />
-</p>
-
-<br/>
-
-</td></tr>
+  <tr>
+    <td width="28%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,cpp,java,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Protocols</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/WebRTC-333?style=for-the-badge&logo=webrtc&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Blockchain & Web3</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge" height="48" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=000" height="48" />
+      <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Storage</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML & Vision</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Cloud Tooling</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,linux,vscode,postman&theme=dark" />
+    </td>
+  </tr>
 </table>
 
 </div>
