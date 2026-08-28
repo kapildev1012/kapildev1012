@@ -185,6 +185,36 @@ availability: Open for Software Engineering Roles, High-Impact Freelance & Open-
       <p><a href="https://github.com/kapildev1012/hotspot.new"><strong>View Real-Time App →</strong></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/kapildev1012/gogreen">GoGreen - Sustainable Solutions</a></h3>
+      <p><em>Smart Environmental & Green Tech Web Platform</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <ul>
+        <li>Interactive eco-friendly platform designed to promote sustainable practices and carbon awareness.</li>
+        <li>Clean, modular frontend architecture with responsive layouts and fluid CSS animations.</li>
+      </ul>
+      <p><a href="https://github.com/kapildev1012/gogreen"><strong>View GoGreen Repo →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪵 <a href="https://github.com/kapildev1012/WOODKING">WoodKing Bespoke Enterprise Portal</a></h3>
+      <p><em>E-Commerce & Custom Furniture Showcase</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <ul>
+        <li>Full-stack enterprise e-commerce platform for custom woodwork catalog management.</li>
+        <li>Integrated quotation requests, client management, and responsive portfolio viewing.</li>
+      </ul>
+      <p><a href="https://github.com/kapildev1012/WOODKING"><strong>View WoodKing Repo →</strong></a></p>
+    </td>
+  </tr>
 </table>
 
 ---
