@@ -15,20 +15,23 @@
 <h1>Hi, I'm Kapil Dev <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="38"></h1>
 <h3><b>A passionate Full-Stack Engineer & AI Researcher crafting elegant architectures and scalable systems.</b></h3>
 
+<br/>
+
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full+Stack+Software+Engineer+(MERN+%26+Next.js);%F0%9F%94%97+Smart+Contract+%26+Web3+Blockchain+Developer;%F0%9F%A7%A0+AI%2C+Vision+Transformers+%26+Robotics+Researcher;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+%7C+5%2C500%2B+Contributions;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
 <!-- ═══════════════════════ SOCIAL & STATUS BADGES ═══════════════════════ -->
 
 <p>
-  <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kapildev1012"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;
-  <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;
+  <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kapildev1012"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;&nbsp;
+  <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;&nbsp;
   <a href="https://wa.me/917650965133"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
 </p>
 
@@ -78,6 +81,8 @@ When I'm not deploying smart contracts or collaborating on Vision Transformers a
 </tr>
 </table>
 
+<br/>
+
 ```javascript
 const developer = {
   name:      "Kapil Dev",
@@ -104,6 +109,8 @@ const developer = {
   funFact:  "I ship features faster than I ship bugs 🚀"
 };
 ```
+
+<br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!-- ═══════════════════ § 2 — QUICK DEV HIGHLIGHTS ═════════════════════ -->
@@ -202,10 +209,14 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,cpp,java,html,css&perline=8&theme=dark" />
 </p>
 
+<br/>
+
 #### `✦ Frontend Development`
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&perline=6&theme=dark" />
 </p>
+
+<br/>
 
 #### `✦ Backend & Protocols`
 <p>
@@ -214,6 +225,8 @@ const developer = {
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="38" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="38" />
 </p>
+
+<br/>
 
 #### `✦ Blockchain & Web3`
 <p>
@@ -225,10 +238,14 @@ const developer = {
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" height="38" />
 </p>
 
+<br/>
+
 #### `✦ Databases & Storage`
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4&theme=dark" />
 </p>
+
+<br/>
 
 #### `✦ AI / ML & Computer Vision`
 <p>
@@ -238,11 +255,14 @@ const developer = {
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="38" />
 </p>
 
+<br/>
+
 #### `✦ DevOps & Cloud Tooling`
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,linux,vscode,postman&perline=9&theme=dark" />
 </p>
 
+<br/>
 </div>
 
 <!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
@@ -256,6 +276,8 @@ const developer = {
 ## &nbsp;🏆&nbsp; Featured Research & Production Systems
 
 > **Click any card to explore the repository or launch the live deployed application.**
+
+<br/>
 
 <table>
   <tr>
