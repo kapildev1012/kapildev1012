@@ -538,14 +538,14 @@ const developer = {
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
   <br/>
   <h3>🏛️ &nbsp;B.Tech Computer Science & Eng.</h3>
   <p style="font-size: 15px;"><b>Himachal Pradesh Technical University</b></p>
   <p style="font-size: 15px;"><code>2023 – 2027</code></p>
   <br/>
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
   <br/>
   <h3>🔬 &nbsp;AI Research Collaboration</h3>
   <p style="font-size: 15px;"><b>IIT Mandi</b> &nbsp;•&nbsp; <code>2024 – Present</code></p>
