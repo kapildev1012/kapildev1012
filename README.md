@@ -303,7 +303,11 @@ availability: Open for Software Engineering Roles, High-Impact Freelance & Open-
 
 ---
 
-## 🐍 Contribution Activity Graph & Snake
+## 📊 Live GitHub Statistics & Activity Metrics
+
+<div align="center">
+
+### ⚡ Contribution & Code Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kapildev1012/kapildev1012/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
@@ -311,24 +315,41 @@ availability: Open for Software Engineering Roles, High-Impact Freelance & Open-
 
 ---
 
-## 📊 Live GitHub Statistics & Activity Metrics
+### 📈 Core GitHub Performance Cards
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kapildev1012&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=00B4D8&text_color=C9D1D9&count_private=true" alt="Kapil Dev's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapildev1012&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=kapildev1012&theme=tokyonight&hide_border=false&border_color=30363D&background=0D1117&ring=00B4D8&fire=FF6C37&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=00B4D8&sideLabels=8B949E" alt="Kapil Dev's Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌊 Year-Round Activity Wave
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapildev1012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0077B5&icon_color=00B4D8" alt="Kapil Dev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapildev1012&layout=compact&theme=tokyonight&hide_border=true&title_color=0077B5" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapildev1012&theme=tokyo-night&bg_color=0D1117&color=00B4D8&line=0077B5&point=58A6FF&area=true&hide_border=false&border_color=30363D" alt="Kapil Dev's Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kapildev1012&theme=tokyonight&hide_border=true&stroke=0077B5&ring=00B4D8&fire=FF6C37" alt="Kapil Dev's Streak Stats" />
-</p>
+---
+
+### 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapildev1012&theme=tokyo-night&bg_color=0D1117&color=00B4D8&line=0077B5&point=FFFFFF&area=true&hide_border=true" alt="Kapil Dev's Activity Graph" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kapildev1012&theme=tokyonight&no-frame=false&border_color=30363D&column=6&margin_w=10" alt="Kapil Dev's Trophies" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapildev1012&theme=tokyonight&no-frame=true&column=6&margin_w=10" alt="Kapil Dev's Trophies" />
-</p>
+</div>
 
 ---
 
