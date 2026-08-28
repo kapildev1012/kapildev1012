@@ -542,28 +542,32 @@ const developer = {
 ## &nbsp;📜&nbsp; Certifications & Honors
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <br/>
-  <h3>🥇 &nbsp;Industry Credentials</h3>
-  <ul>
-    <li><img src="https://img.shields.io/badge/Meta-Front--End_Developer-0467DF?style=flat-square&logo=meta&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=flat-square&logo=google&logoColor=white"/></li>
-  </ul>
-  <br/>
-</td>
-<td width="50%" valign="top">
-  <br/>
-  <h3>🎖️ &nbsp;Online Honors</h3>
-  <ul>
-    <li><img src="https://img.shields.io/badge/freeCodeCamp-Legacy_Full_Stack-0a0a23?style=flat-square&logo=freecodecamp&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Advanced)-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat-square&logo=postman&logoColor=white"/></li>
-  </ul>
-  <br/>
-</td>
-</tr>
+  <tr>
+    <td width="28%"><strong>Google & Meta</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Meta-Front--End_Developer-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Meta Front-End Developer">
+      <img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Data Analytics Professional">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Amazon Web Services</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>freeCodeCamp</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/freeCodeCamp-Legacy_Full_Stack-0a0a23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Legacy Full Stack">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HackerRank & Postman</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Advanced)-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank">
+      <img src="https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+    </td>
+  </tr>
 </table>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
