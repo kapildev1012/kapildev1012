@@ -7,7 +7,7 @@
 <div align="center">
   <img src="./assets/header.png" width="100%" alt="Kapil Dev - Portfolio Header" style="border-radius: 12px; margin-bottom: 20px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
   <h1 align="center">
     Hi, I'm Kapil Dev <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="38" align="center">
@@ -15,13 +15,13 @@
   
   <h3><b>A passionate Full-Stack Engineer & AI Researcher crafting elegant architectures and scalable systems.</b></h3>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full+Stack+Software+Engineer+(MERN+%26+Next.js);%F0%9F%94%97+Smart+Contract+%26+Web3+Blockchain+Developer;%F0%9F%A7%A0+AI%2C+Vision+Transformers+%26+Robotics+Researcher;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+%7C+5%2C500%2B+Contributions;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
   </a>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
   <p>
     <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;&nbsp;
@@ -40,20 +40,19 @@
     <img src="https://img.shields.io/badge/Status-Open_for_Roles_&_Consulting-brightgreen?style=for-the-badge" />
   </p>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
   > **`⭐ Drop a star if you find my open-source projects, research, or architecture useful!`**
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 ## &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; About Me
 
-<table>
+<table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <br/>
       <p style="font-size: 16px; line-height: 1.6;">
         Hello! I'm <b>Kapil Dev</b>, a highly driven <b>Full-Stack Software Engineer</b> and <b>AI Researcher</b> based in India. 
       </p>
@@ -103,9 +102,9 @@ const developer = {
 };
 ```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 <div align="center">
 
@@ -116,35 +115,32 @@ const developer = {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapildev1012&bg_color=0d1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true&custom_title=31-Day%20Contribution%20Activity" width="100%" alt="Activity Graph" />
   </a>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
   <a href="https://github.com/kapildev1012">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapildev1012&theme=chartreuse-dark" width="100%" alt="Profile Details" />
   </a>
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="20" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 ## &nbsp;💥&nbsp; Core Engineering Metrics
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%" valign="middle">
-      <br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="65"/>
       <h2><b>10+</b></h2>
       <p style="font-size: 15px;"><b>Production Web Apps</b><br/><sub>React, Next.js, Node.js</sub></p>
       <br/>
     </td>
     <td align="center" width="33%" valign="middle">
-      <br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="65"/>
       <h2><b>100%</b></h2>
       <p style="font-size: 15px;"><b>Tamper-Proof</b><br/><sub>Smart Contracts</sub></p>
       <br/>
     </td>
     <td align="center" width="33%" valign="middle">
-      <br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="65"/>
       <h2><b>IIT Mandi</b></h2>
       <p style="font-size: 15px;"><b>AI & Vision Research</b><br/><sub>V-JEPA, ViT, PyTorch</sub></p>
@@ -153,21 +149,18 @@ const developer = {
   </tr>
   <tr>
     <td align="center" width="33%" valign="middle">
-      <br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="65"/>
       <h2><b>&lt; 120ms</b></h2>
       <p style="font-size: 15px;"><b>P99 API Latency</b><br/><sub>Redis, WebSockets, Scaling</sub></p>
       <br/>
     </td>
     <td align="center" width="33%" valign="middle">
-      <br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="65"/>
       <h2><b>6,500+</b></h2>
       <p style="font-size: 15px;"><b>Lifetime Commits</b><br/><sub>Open Source & Enterprise</sub></p>
       <br/>
     </td>
     <td align="center" width="33%" valign="middle">
-      <br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="65"/>
       <h2><b>99.9%</b></h2>
       <p style="font-size: 15px;"><b>System Uptime</b><br/><sub>Docker, CI/CD, DevOps</sub></p>
@@ -178,9 +171,9 @@ const developer = {
 
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 ## &nbsp;🛠️&nbsp; Tech Arsenal
 
@@ -188,8 +181,6 @@ const developer = {
 
 <table width="100%">
 <tr><td align="center">
-
-<br/>
 
 ### `✦ Languages`
 <p>
@@ -256,9 +247,9 @@ const developer = {
 
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 ## &nbsp;🏆&nbsp; Featured Research & Production Systems
 
@@ -266,7 +257,7 @@ const developer = {
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧠 AI & Self-Supervised Learning</h3>
@@ -441,9 +432,9 @@ const developer = {
   </tr>
 </table>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 ## &nbsp;📊&nbsp; Live GitHub Analytics
 
@@ -464,9 +455,9 @@ const developer = {
 
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 <!-- 
   NOTE: The github-profile-trophy service is currently down globally due to Vercel 402 Payment Required errors.
@@ -489,16 +480,15 @@ const developer = {
   <img src="https://raw.githubusercontent.com/kapildev1012/kapildev1012/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 ## &nbsp;💼&nbsp; Work Experience & Leadership
 
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
-  <br/>
   <h3>🏢 &nbsp;Founder & Lead Full-Stack Architect — <i>Zippin Full-Stack Solutions</i></h3>
   <p style="font-size: 15px;"><code>Jan 2023 – Present</code> &nbsp;•&nbsp; Hamirpur, HP</p>
   <ul>
@@ -539,14 +529,12 @@ const developer = {
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <br/>
   <h3>🏛️ &nbsp;B.Tech Computer Science & Eng.</h3>
   <p style="font-size: 15px;"><b>Himachal Pradesh Technical University</b></p>
   <p style="font-size: 15px;"><code>2023 – 2027</code></p>
   <br/>
 </td>
 <td width="50%" valign="top">
-  <br/>
   <h3>🔬 &nbsp;AI Research Collaboration</h3>
   <p style="font-size: 15px;"><b>IIT Mandi</b> &nbsp;•&nbsp; <code>2024 – Present</code></p>
   <p style="font-size: 15px;"><i>Vision Transformers & EEG Classification</i></p>
@@ -555,9 +543,9 @@ const developer = {
 </tr>
 </table>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 ## &nbsp;📜&nbsp; Certifications & Honors
 
@@ -590,9 +578,9 @@ const developer = {
   </tr>
 </table>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 <details>
 <summary>&nbsp;🎯&nbsp;<b>ATS Optimization & Recruiter Keywords</b>&nbsp;(Click to expand)</summary>
@@ -611,9 +599,9 @@ const developer = {
 
 </details>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="5" />
 
 <div align="center">
 
@@ -625,7 +613,7 @@ const developer = {
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="25%">
       <a href="https://kapildev1012.vercel.app">
