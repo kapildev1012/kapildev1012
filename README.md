@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Software+Engineer+(MERN+%26+Next.js);Smart+Contract+%26+Web3+Blockchain+Developer;AI%2C+Computer+Vision+%26+Robotics+Researcher;Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Software+Engineer+(MERN+%26+Next.js);Smart+Contract+%26+Web3+Blockchain+Developer;AI%2C+Computer+Vision+%26+Robotics+Researcher;Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 [![Email](https://img.shields.io/badge/✉️_Email-kapil16072004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil16072004@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91--7650965133-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917650965133)
 [![Location](https://img.shields.io/badge/📍_Location-Hamirpur%2C%20HP%2C%20India-555555?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/)
-[![Profile Views](https://komarev.com/ghpvc/?username=kapildev1012&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kapildev1012)
+[![Profile Views](https://komarev.com/ghpvc/?username=kapildev1012&color=39D353&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kapildev1012)
 
 </div>
 
@@ -307,46 +307,38 @@ availability: Open for Software Engineering Roles, High-Impact Freelance & Open-
 
 <div align="center">
 
-### ⚡ Contribution & Code Activity
+### 🐍 Contribution Activity (Green & Black Matrix)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kapildev1012/kapildev1012/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
+  <img src="https://ghchart.rshah.org/39d353/kapildev1012" alt="Kapil Dev's Contribution Graph" width="100%" />
 </p>
 
 ---
 
-### 📈 Core GitHub Performance Cards
+### 📈 Core Performance & Language Metrics
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kapildev1012&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=00B4D8&text_color=C9D1D9&count_private=true" alt="Kapil Dev's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kapildev1012&show_icons=true&theme=tokyonight&hide_border=false&border_color=39D353&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&count_private=true" alt="Kapil Dev's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapildev1012&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kapildev1012&layout=compact&theme=tokyonight&hide_border=false&border_color=39D353&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=kapildev1012&theme=tokyonight&hide_border=false&border_color=30363D&background=0D1117&ring=00B4D8&fire=FF6C37&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=00B4D8&sideLabels=8B949E" alt="Kapil Dev's Streak Stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=kapildev1012&theme=tokyonight&hide_border=false&border_color=39D353&background=0D1117&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E" alt="Kapil Dev's Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌊 Year-Round Activity Wave
+### 🗂️ Profile Details & Commit Analysis
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapildev1012&theme=tokyo-night&bg_color=0D1117&color=00B4D8&line=0077B5&point=58A6FF&area=true&hide_border=false&border_color=30363D" alt="Kapil Dev's Activity Graph" width="100%" />
-</p>
-
----
-
-### 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapildev1012&theme=tokyonight&no-frame=false&border_color=30363D&column=6&margin_w=10" alt="Kapil Dev's Trophies" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapildev1012&theme=solarized_dark" alt="Kapil Dev's Profile Details" width="100%" />
 </p>
 
 </div>
