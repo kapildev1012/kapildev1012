@@ -507,6 +507,26 @@ const developer = {
     <li style="font-size: 15px;">👥 Led cross-functional engineering teams — code reviews, test coverage, and mentoring junior developers.</li>
     <li style="font-size: 15px;">📊 Organized university tech fest with <b>500+ participants</b> managing logistics, sponsorships, and technical hackathons.</li>
   </ul>
+  
+  <br/>
+  
+  <h3>🔬 &nbsp;AI & Computer Vision Researcher — <i>IIT Mandi Collaboration</i></h3>
+  <p style="font-size: 15px;"><code>Aug 2024 – Present</code> &nbsp;•&nbsp; Mandi, HP</p>
+  <ul>
+    <li style="font-size: 15px;">🧠 Researched and implemented state-of-the-art <b>Self-Supervised Vision Transformers (V-JEPA)</b> for complex image representations.</li>
+    <li style="font-size: 15px;">📈 Developed deep learning pipelines using <b>PyTorch</b> and OpenCV to classify EEG signals with high-accuracy benchmarks.</li>
+    <li style="font-size: 15px;">📝 Co-authored technical documentation and presented findings under faculty guidance.</li>
+  </ul>
+  
+  <br/>
+
+  <h3>⛓️ &nbsp;Blockchain & Smart Contract Engineer — <i>Web3 Open Source</i></h3>
+  <p style="font-size: 15px;"><code>2023 – Present</code> &nbsp;•&nbsp; Remote</p>
+  <ul>
+    <li style="font-size: 15px;">🔐 Engineered tamper-proof, decentralized electronic voting systems using <b>Solidity</b>, deploying zero-exploit smart contracts on Ethereum testnets.</li>
+    <li style="font-size: 15px;">🌐 Built seamless frontend integrations using <b>React, Ethers.js, and Web3.js</b>, allowing secure wallet connections via MetaMask.</li>
+    <li style="font-size: 15px;">⚡ Optimized gas usage across decentralized applications (DApps) and automated testing using Hardhat.</li>
+  </ul>
   <br/>
 </td>
 </tr>
