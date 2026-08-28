@@ -4,84 +4,74 @@
 <!-- ║  Founder @ Zippin Full-Stack Solutions                                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
-
-<img src="./assets/header.png" width="100%" alt="Kapil Dev - Portfolio Header" />
-
 <div align="center">
+  <img src="./assets/header.png" width="100%" alt="Kapil Dev - Portfolio Header" style="border-radius: 12px; margin-bottom: 20px;" />
 
-<br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="20" />
 
-<h1>Hi, I'm Kapil Dev <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="38"></h1>
-<h3><b>A passionate Full-Stack Engineer & AI Researcher crafting elegant architectures and scalable systems.</b></h3>
+  <h1 align="center">
+    Hi, I'm Kapil Dev <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="38" align="center">
+  </h1>
+  
+  <h3><b>A passionate Full-Stack Engineer & AI Researcher crafting elegant architectures and scalable systems.</b></h3>
 
-<br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
-<!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full+Stack+Software+Engineer+(MERN+%26+Next.js);%F0%9F%94%97+Smart+Contract+%26+Web3+Blockchain+Developer;%F0%9F%A7%A0+AI%2C+Vision+Transformers+%26+Robotics+Researcher;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+%7C+5%2C500%2B+Contributions;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
+  </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full+Stack+Software+Engineer+(MERN+%26+Next.js);%F0%9F%94%97+Smart+Contract+%26+Web3+Blockchain+Developer;%F0%9F%A7%A0+AI%2C+Vision+Transformers+%26+Robotics+Researcher;%F0%9F%9A%80+10%2B+Production+Apps+Shipped+%7C+5%2C500%2B+Contributions;%F0%9F%8F%97%EF%B8%8F+Founder+%40+Zippin+Full-Stack+Solutions" alt="Typing SVG" />
-</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
-<br/>
-<br/>
+  <p>
+    <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kapildev1012"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;&nbsp;
+    <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;&nbsp;
+    <a href="https://wa.me/917650965133"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
+  </p>
 
-<!-- ═══════════════════════ SOCIAL & STATUS BADGES ═══════════════════════ -->
+  <p>
+    <a href="https://github.com/kapildev1012"><img src="https://komarev.com/ghpvc/?username=kapildev1012&color=39D353&style=for-the-badge&label=Profile+Views" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/kapildev1012?tab=followers"><img src="https://img.shields.io/github/followers/kapildev1012?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" /></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Open_Source-❤️-39D353?style=for-the-badge" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Status-Open_for_Roles_&_Consulting-brightgreen?style=for-the-badge" />
+  </p>
 
-<p>
-  <a href="https://kapildev1012.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kapildev1012.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kapildev1012"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;&nbsp;
-  <a href="mailto:kapil16072004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/917650965133"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
-<p>
-  <a href="https://github.com/kapildev1012"><img src="https://komarev.com/ghpvc/?username=kapildev1012&color=39D353&style=for-the-badge&label=Profile+Views" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/kapildev1012?tab=followers"><img src="https://img.shields.io/github/followers/kapildev1012?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" /></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_Source-❤️-39D353?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_for_Roles_&_Consulting-brightgreen?style=for-the-badge" />
-</p>
-
-<br/>
-
-**`⭐ Drop a star if you find my open-source projects, research, or architecture useful!`**
-
+  > **`⭐ Drop a star if you find my open-source projects, research, or architecture useful!`**
 </div>
 
-<!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 1 — ABOUT ME ═════════════════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 ## &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; About Me
 
 <table>
-<tr>
-<td width="65%" valign="top">
-
-Hello! I'm **Kapil Dev**, a highly driven **Full-Stack Software Engineer** and **AI Researcher** based in India. 
-
-I specialize in architecting highly scalable distributed systems, developing zero-exploit Web3 smart contracts, and exploring state-of-the-art Joint-Embedding Predictive Architectures (V-JEPA) for Computer Vision. 
-
-Currently, I serve as the Founder & Lead Architect at **Zippin Full-Stack Solutions**, where I deliver enterprise-grade web applications focusing on real-time data streaming (WebRTC/Sockets), Server-Side Rendering (Next.js), and robust, low-latency APIs.
-
-When I'm not deploying smart contracts or collaborating on Vision Transformers at **IIT Mandi**, I'm actively contributing to open-source ecosystems and scaling production platforms.
-
-<br/>
-
-**`✦ MISSION:`** *Bridging the gap between decentralized protocols, artificial intelligence, and elegant user experiences.*
-
-</td>
-<td width="35%" align="center" valign="top">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%"/>
-</td>
-</tr>
+  <tr>
+    <td width="65%" valign="top">
+      <br/>
+      <p style="font-size: 16px; line-height: 1.6;">
+        Hello! I'm <b>Kapil Dev</b>, a highly driven <b>Full-Stack Software Engineer</b> and <b>AI Researcher</b> based in India. 
+      </p>
+      <p style="font-size: 16px; line-height: 1.6;">
+        I specialize in architecting highly scalable distributed systems, developing zero-exploit Web3 smart contracts, and exploring state-of-the-art Joint-Embedding Predictive Architectures (V-JEPA) for Computer Vision. 
+      </p>
+      <p style="font-size: 16px; line-height: 1.6;">
+        Currently, I serve as the Founder & Lead Architect at <b>Zippin Full-Stack Solutions</b>, where I deliver enterprise-grade web applications focusing on real-time data streaming (WebRTC/Sockets), Server-Side Rendering (Next.js), and robust, low-latency APIs.
+      </p>
+      <br/>
+      <blockquote>
+        <b><code>✦ MISSION:</code></b> <i>Bridging the gap between decentralized protocols, artificial intelligence, and elegant user experiences.</i>
+      </blockquote>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="90%" style="border-radius: 12px;"/>
+    </td>
+  </tr>
 </table>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
 ```javascript
 const developer = {
@@ -110,26 +100,9 @@ const developer = {
 };
 ```
 
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 2 — QUICK DEV HIGHLIGHTS ═════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-### ⚡ What I'm Up To:
-- 🔭 **Currently Building:** High-concurrency distributed web platforms and real-time streaming architectures.
-- 🌱 **Currently Exploring:** State-of-the-art Joint-Embedding Predictive Architectures (`V-JEPA`/`I-JEPA`) and Layer-2 Ethereum zkRollups.
-- 🧠 **Research Collaboration:** EEG signal classification and computer vision benchmarks with **IIT Mandi**.
-- 💬 **Ask Me About:** MERN Stack, Next.js, Solidity Smart Contracts, Computer Vision (OpenCV), Tensegrity Robotics, System Architecture.
-- 📫 **Reach Me Directly:** [kapil16072004@gmail.com](mailto:kapil16072004@gmail.com) • [WhatsApp (+91 7650965133)](https://wa.me/917650965133)
-
-<!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 3 — PROFILE OVERVIEW (WIDGETBOX) ═════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 <div align="center">
 
@@ -139,86 +112,89 @@ const developer = {
   <img src="https://github-widgetbox.vercel.app/api/profile?username=kapildev1012&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" width="100%"/>
 </a>
 
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 4 — WHAT I BRING ═════════════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="20" />
 
 ## &nbsp;💥&nbsp; Core Engineering Metrics
 
-<div align="center">
-
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="55"/><br/>
-      <h3><b>10+</b></h3>
-      <p><b>Production Web Apps</b><br/><sub>React, Next.js, Node.js</sub></p>
+    <td align="center" width="33%" valign="middle">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="65"/>
+      <h2><b>10+</b></h2>
+      <p style="font-size: 15px;"><b>Production Web Apps</b><br/><sub>React, Next.js, Node.js</sub></p>
+      <br/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="55"/><br/>
-      <h3><b>100%</b></h3>
-      <p><b>Tamper-Proof</b><br/><sub>Smart Contracts</sub></p>
+    <td align="center" width="33%" valign="middle">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="65"/>
+      <h2><b>100%</b></h2>
+      <p style="font-size: 15px;"><b>Tamper-Proof</b><br/><sub>Smart Contracts</sub></p>
+      <br/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55"/><br/>
-      <h3><b>IIT Mandi</b></h3>
-      <p><b>AI & Vision Research</b><br/><sub>V-JEPA, ViT, PyTorch</sub></p>
+    <td align="center" width="33%" valign="middle">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="65"/>
+      <h2><b>IIT Mandi</b></h2>
+      <p style="font-size: 15px;"><b>AI & Vision Research</b><br/><sub>V-JEPA, ViT, PyTorch</sub></p>
+      <br/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="55"/><br/>
-      <h3><b>&lt; 120ms</b></h3>
-      <p><b>P99 API Latency</b><br/><sub>Redis, WebSockets, Scaling</sub></p>
+    <td align="center" width="33%" valign="middle">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="65"/>
+      <h2><b>&lt; 120ms</b></h2>
+      <p style="font-size: 15px;"><b>P99 API Latency</b><br/><sub>Redis, WebSockets, Scaling</sub></p>
+      <br/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="55"/><br/>
-      <h3><b>5,500+</b></h3>
-      <p><b>Lifetime Commits</b><br/><sub>Open Source & Enterprise</sub></p>
+    <td align="center" width="33%" valign="middle">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="65"/>
+      <h2><b>6,500+</b></h2>
+      <p style="font-size: 15px;"><b>Lifetime Commits</b><br/><sub>Open Source & Enterprise</sub></p>
+      <br/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="55"/><br/>
-      <h3><b>99.9%</b></h3>
-      <p><b>System Uptime</b><br/><sub>Docker, CI/CD, DevOps</sub></p>
+    <td align="center" width="33%" valign="middle">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="65"/>
+      <h2><b>99.9%</b></h2>
+      <p style="font-size: 15px;"><b>System Uptime</b><br/><sub>Docker, CI/CD, DevOps</sub></p>
+      <br/>
     </td>
   </tr>
 </table>
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 5 — TECH ARSENAL ═════════════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 ## &nbsp;🛠️&nbsp; Tech Arsenal
 
 <div align="center">
 
-#### `✦ Languages`
+<table width="100%">
+<tr><td align="center">
+
+<br/>
+
+### `✦ Languages`
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,cpp,java,html,css&perline=8&theme=dark" />
 </p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-#### `✦ Frontend Development`
+### `✦ Frontend Development`
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&perline=6&theme=dark" />
 </p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-#### `✦ Backend & Protocols`
+### `✦ Backend & Protocols`
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline=6&theme=dark" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WebRTC-333?style=for-the-badge&logo=webrtc&logoColor=white" height="38" />
@@ -226,9 +202,9 @@ const developer = {
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="38" />
 </p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-#### `✦ Blockchain & Web3`
+### `✦ Blockchain & Web3`
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="38" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="38" />
@@ -238,16 +214,16 @@ const developer = {
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" height="38" />
 </p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-#### `✦ Databases & Storage`
+### `✦ Databases & Storage`
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4&theme=dark" />
 </p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-#### `✦ AI / ML & Computer Vision`
+### `✦ AI / ML & Computer Vision`
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=6&theme=dark" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="38" />
@@ -255,29 +231,29 @@ const developer = {
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="38" />
 </p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-#### `✦ DevOps & Cloud Tooling`
+### `✦ DevOps & Cloud Tooling`
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,linux,vscode,postman&perline=9&theme=dark" />
 </p>
 
 <br/>
+
+</td></tr>
+</table>
+
 </div>
 
-<!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 6 — PROJECTS SHOWCASE ═════════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 ## &nbsp;🏆&nbsp; Featured Research & Production Systems
 
 > **Click any card to explore the repository or launch the live deployed application.**
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
 <table>
   <tr>
@@ -292,9 +268,9 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>EEG signal classification with SOTA accuracy benchmarks</li>
-        <li>V-JEPA/I-JEPA spatial-temporal representation learning</li>
-        <li>Research published under IIT Mandi faculty guidance</li>
+        <li style="font-size: 15px;">EEG signal classification with SOTA accuracy benchmarks</li>
+        <li style="font-size: 15px;">V-JEPA/I-JEPA spatial-temporal representation learning</li>
+        <li style="font-size: 15px;">Research published under IIT Mandi faculty guidance</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012"><b>→ Explore Research Repository</b></a></p>
     </td>
@@ -309,9 +285,9 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>Cryptographic ballot verification, zero double-voting exploits</li>
-        <li>MetaMask wallet ↔ smart contract ABI interface</li>
-        <li>100% immutable on-chain voting records</li>
+        <li style="font-size: 15px;">Cryptographic ballot verification, zero double-voting exploits</li>
+        <li style="font-size: 15px;">MetaMask wallet ↔ smart contract ABI interface</li>
+        <li style="font-size: 15px;">100% immutable on-chain voting records</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/voting"><b>→ View DApp Repository</b></a></p>
     </td>
@@ -328,8 +304,8 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>RBAC for Investors & Creators with automated Razorpay flows</li>
-        <li>Campaign analytics charts, transaction ledger, payout tracking</li>
+        <li style="font-size: 15px;">RBAC for Investors & Creators with automated Razorpay flows</li>
+        <li style="font-size: 15px;">Campaign analytics charts, transaction ledger, payout tracking</li>
       </ul>
       <p align="center">
         <a href="https://wellfire-new2.vercel.app"><b>🌐 Live Web App</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
@@ -346,8 +322,8 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>6-bar & 18-bar tensegrity structure simulation wrappers</li>
-        <li>Actuator circuit design & software-hardware bridge</li>
+        <li style="font-size: 15px;">6-bar & 18-bar tensegrity structure simulation wrappers</li>
+        <li style="font-size: 15px;">Actuator circuit design & software-hardware bridge</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/locomotion"><b>→ View Simulation Engine</b></a></p>
     </td>
@@ -364,8 +340,8 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>Multi-item cart state, dynamic catalog filtering, Stripe payments</li>
-        <li>Dedicated admin portal for stock auditing & order fulfillment</li>
+        <li style="font-size: 15px;">Multi-item cart state, dynamic catalog filtering, Stripe payments</li>
+        <li style="font-size: 15px;">Dedicated admin portal for stock auditing & order fulfillment</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/forever-full-stack_1"><b>→ View E-Commerce Repo</b></a></p>
     </td>
@@ -379,8 +355,8 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>Sub-second search, responsive cinema grids, trending algorithms</li>
-        <li>Google Lighthouse 98+ SEO rating</li>
+        <li style="font-size: 15px;">Sub-second search, responsive cinema grids, trending algorithms</li>
+        <li style="font-size: 15px;">Google Lighthouse 98+ SEO rating</li>
       </ul>
       <p align="center">
         <a href="https://filmoramovie.vercel.app"><b>🌐 Live Web App</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
@@ -399,8 +375,8 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>Real-time facial recognition attendance system</li>
-        <li>Video biometric authentication surveillance pipeline</li>
+        <li style="font-size: 15px;">Real-time facial recognition attendance system</li>
+        <li style="font-size: 15px;">Video biometric authentication surveillance pipeline</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/jarvis"><b>→ View Vision Project</b></a></p>
     </td>
@@ -414,8 +390,8 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>Bi-directional socket updates for live driver tracking</li>
-        <li>Peer-to-peer WebRTC driver ↔ customer communication</li>
+        <li style="font-size: 15px;">Bi-directional socket updates for live driver tracking</li>
+        <li style="font-size: 15px;">Peer-to-peer WebRTC driver ↔ customer communication</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/hotspot.new"><b>→ View Real-Time App</b></a></p>
     </td>
@@ -423,7 +399,7 @@ const developer = {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌿 GoGreen Eco Platform</h3>
-      <p align="center"><em>5,400+ Sustainability Metric Entries</em></p>
+      <p align="center"><em>6,400+ Sustainability Metric Entries</em></p>
       <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
         <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
@@ -431,8 +407,8 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>Interactive sustainability insights and carbon tracking</li>
-        <li>Fluid animations with cross-browser responsive design</li>
+        <li style="font-size: 15px;">Interactive sustainability insights and carbon tracking</li>
+        <li style="font-size: 15px;">Fluid animations with cross-browser responsive design</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/gogreen"><b>→ View GoGreen Repo</b></a></p>
     </td>
@@ -446,21 +422,17 @@ const developer = {
       </div>
       <br/>
       <ul>
-        <li>Full-stack furniture ordering & catalog management</li>
-        <li>Quotation system & responsive portfolio showcase</li>
+        <li style="font-size: 15px;">Full-stack furniture ordering & catalog management</li>
+        <li style="font-size: 15px;">Quotation system & responsive portfolio showcase</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/WOODKING"><b>→ View WoodKing Repo</b></a></p>
     </td>
   </tr>
 </table>
 
-<!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 7 — LIVE GITHUB ANALYTICS ═════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 ## &nbsp;📊&nbsp; Live GitHub Analytics
 
@@ -471,7 +443,7 @@ const developer = {
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kapildev1012&layout=compact&hide_border=true&title_color=39D353&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Top Languages" />
 </p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
 ### 🔥 Contribution Streak
 
@@ -481,13 +453,9 @@ const developer = {
 
 </div>
 
-<!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 8 — TROPHIES ═════════════════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 <!-- 
   NOTE: The github-profile-trophy service is currently down globally due to Vercel 402 Payment Required errors.
@@ -504,82 +472,61 @@ const developer = {
 <br/>
 -->
 
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 9 — SNAKE ════════════════════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
 ## &nbsp;🐍&nbsp; Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kapildev1012/kapildev1012/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
-<!-- ═══════════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════════ -->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 10 — EXPERIENCE & LEADERSHIP ═════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 ## &nbsp;💼&nbsp; Experience & Leadership
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
-
-### 🏢 &nbsp;Founder & Lead Full-Stack Architect — *Zippin Full-Stack Solutions*
-`Jan 2023 – Present` &nbsp;•&nbsp; Hamirpur, HP
-
-- 🏗️ Architected **10+ production web apps** serving commercial clients across e-commerce, crowdfunding, streaming & voting
-- 📐 Designed distributed systems handling thousands of concurrent requests with < 120ms P99 latency
-- 👥 Led cross-functional engineering teams — code reviews, test coverage, and mentoring junior developers
-- 📊 Organized university tech fest with **500+ participants** managing logistics, sponsorships, and technical hackathons
-
+<td width="100%" valign="top">
+  <br/>
+  <h3>🏢 &nbsp;Founder & Lead Full-Stack Architect — <i>Zippin Full-Stack Solutions</i></h3>
+  <p style="font-size: 15px;"><code>Jan 2023 – Present</code> &nbsp;•&nbsp; Hamirpur, HP</p>
+  <ul>
+    <li style="font-size: 15px;">🏗️ Architected <b>10+ production web apps</b> serving commercial clients across e-commerce, crowdfunding, streaming & voting.</li>
+    <li style="font-size: 15px;">📐 Designed distributed systems handling thousands of concurrent requests with &lt; 120ms P99 latency.</li>
+    <li style="font-size: 15px;">👥 Led cross-functional engineering teams — code reviews, test coverage, and mentoring junior developers.</li>
+    <li style="font-size: 15px;">📊 Organized university tech fest with <b>500+ participants</b> managing logistics, sponsorships, and technical hackathons.</li>
+  </ul>
+  <br/>
 </td>
 </tr>
 </table>
 
-## &nbsp;🎓&nbsp; Education
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
-<table>
+## &nbsp;🎓&nbsp; Education & Research
+
+<table width="100%">
 <tr>
-<td width="60%">
-
-### 🏛️ &nbsp;B.Tech Computer Science & Engineering
-**Himachal Pradesh Technical University** &nbsp;•&nbsp; `2023 – 2027`
-
+<td width="55%" valign="top">
+  <br/>
+  <h3>🏛️ &nbsp;B.Tech Computer Science & Eng.</h3>
+  <p style="font-size: 15px;"><b>Himachal Pradesh Technical University</b></p>
+  <p style="font-size: 15px;"><code>2023 – 2027</code></p>
+  <br/>
 </td>
-<td width="40%">
-
-### 🔬 &nbsp;AI Research Collaboration
-**IIT Mandi** &nbsp;•&nbsp; `2024 – Present`<br/>
-*Vision Transformers & EEG Classification*
-
+<td width="45%" valign="top">
+  <br/>
+  <h3>🔬 &nbsp;AI Research Collaboration</h3>
+  <p style="font-size: 15px;"><b>IIT Mandi</b> &nbsp;•&nbsp; <code>2024 – Present</code></p>
+  <p style="font-size: 15px;"><i>Vision Transformers & EEG Classification</i></p>
+  <br/>
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 11 — RANDOM DEV QUOTE ════════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-## &nbsp;💭&nbsp; Inspiration & Humor
-
-<div align="center">
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="49%" alt="Developer Quote" />
-    <img src="https://readme-jokes.vercel.app/api?theme=dark" width="49%" alt="Developer Joke" />
-  </p>
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 12 — ATS RECRUITER KEYWORDS ══════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 <details>
 <summary>&nbsp;🎯&nbsp;<b>ATS Optimization & Recruiter Keywords</b>&nbsp;(Click to expand)</summary>
@@ -598,21 +545,19 @@ const developer = {
 
 </details>
 
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════ § 13 — CONTACT & CONNECT ═══════════════════════ -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2&section=header" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
 <div align="center">
 
 ## &nbsp;📬&nbsp; Direct Contact & Collaboration
 
-**Let's build high-concurrency systems, decentralized protocols, and cutting-edge AI solutions together.**
+<p style="font-size: 16px;">
+  <b>Let's build high-concurrency systems, decentralized protocols, and cutting-edge AI solutions together.</b>
+</p>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
 <table>
   <tr>
@@ -673,16 +618,13 @@ const developer = {
   </tr>
 </table>
 
-<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="10" />
 
 ```
 ⭐ Star repos you like · 🍴 Fork & Build · 💬 Open for elite software engineering roles
 ```
 
-<br/>
-
 </div>
 
 <!-- ═══════════════════════ ANIMATED WAVE FOOTER ═══════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,25:26a641,50:006d32,75:161b22,100:0d1117&height=150&section=footer" width="100%"/>
