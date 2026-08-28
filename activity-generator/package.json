@@ -1,0 +1,19 @@
+{
+  "name": "github-activity-generator",
+  "version": "1.0.0",
+  "description": "Automated GitHub contribution generator script using moment and simple-git",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^4.1.0",
+    "simple-git": "^3.25.0"
+  },
+  "keywords": ["github", "contributions", "automation", "git"],
+  "author": "Kapil Dev",
+  "license": "MIT"
+}
