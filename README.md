@@ -476,7 +476,7 @@ const developer = {
 ### 🔥 Contribution Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=kapildev1012&hide_border=true&border_radius=15&bg_color=0d1117&title_color=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=39D353" width="55%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kapildev1012&hide_border=true&border_radius=15&bg_color=0d1117&title_color=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=39D353&v=2" width="55%" alt="GitHub Streak" />
 </p>
 
 </div>
@@ -489,6 +489,10 @@ const developer = {
 <!-- ═══════════════════ § 8 — TROPHIES ═════════════════════════════════ -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
+<!-- 
+  NOTE: The github-profile-trophy service is currently down globally due to Vercel 402 Payment Required errors.
+  Uncomment this once the service is restored by its author.
+  
 ## &nbsp;🏆&nbsp; GitHub Trophies
 
 <div align="center">
@@ -498,6 +502,7 @@ const developer = {
 </div>
 
 <br/>
+-->
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!-- ═══════════════════ § 9 — SNAKE ════════════════════════════════════ -->
