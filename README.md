@@ -345,30 +345,19 @@ availability: Open for Software Engineering Roles, High-Impact Freelance & Open-
 
 ---
 
-### 📈 Core Performance & Language Metrics
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kapildev1012&show_icons=true&theme=tokyonight&hide_border=false&border_color=39D353&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&count_private=true" alt="Kapil Dev's GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kapildev1012&layout=compact&theme=tokyonight&hide_border=false&border_color=39D353&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=kapildev1012&theme=tokyonight&hide_border=false&border_color=39D353&background=0D1117&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E" alt="Kapil Dev's Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🗂️ Profile Details & Commit Analysis
+### 📈 Profile Performance & Engineering Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapildev1012&theme=solarized_dark" alt="Kapil Dev's Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapildev1012&theme=github_dark" alt="Kapil Dev's Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapildev1012&theme=github_dark" alt="Kapil Dev's GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapildev1012&theme=github_dark" alt="Most Commit Language" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapildev1012&theme=github_dark" alt="Repositories Per Language" width="100%" />
 </p>
 
 </div>
