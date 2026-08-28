@@ -482,7 +482,7 @@ const developer = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
 
-## &nbsp;💼&nbsp; Experience & Leadership
+## &nbsp;💼&nbsp; Work Experience & Leadership
 
 <table width="100%">
 <tr>
@@ -519,6 +519,37 @@ const developer = {
   <h3>🔬 &nbsp;AI Research Collaboration</h3>
   <p style="font-size: 15px;"><b>IIT Mandi</b> &nbsp;•&nbsp; <code>2024 – Present</code></p>
   <p style="font-size: 15px;"><i>Vision Transformers & EEG Classification</i></p>
+  <br/>
+</td>
+</tr>
+</table>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39d353&height=2" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="15" />
+
+## &nbsp;📜&nbsp; Certifications & Honors
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <br/>
+  <h3>🥇 &nbsp;Industry Credentials</h3>
+  <ul>
+    <li><img src="https://img.shields.io/badge/Meta-Front--End_Developer-0467DF?style=flat-square&logo=meta&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=flat-square&logo=google&logoColor=white"/></li>
+  </ul>
+  <br/>
+</td>
+<td width="50%" valign="top">
+  <br/>
+  <h3>🎖️ &nbsp;Online Honors</h3>
+  <ul>
+    <li><img src="https://img.shields.io/badge/freeCodeCamp-Legacy_Full_Stack-0a0a23?style=flat-square&logo=freecodecamp&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Advanced)-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Postman-API_Fundamentals_Student_Expert-FF6C37?style=flat-square&logo=postman&logoColor=white"/></li>
+  </ul>
   <br/>
 </td>
 </tr>
