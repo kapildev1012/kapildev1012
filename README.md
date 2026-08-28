@@ -145,28 +145,40 @@ const developer = {
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="50"/><br/>
-<b>10+</b><br/><sub>Production<br/>Web Apps</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/><br/>
-<b>100%</b><br/><sub>Tamper-Proof<br/>Smart Contracts</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="50"/><br/>
-<b>IIT Mandi</b><br/><sub>AI & Vision<br/>Research</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"/><br/>
-<b>&lt; 120ms</b><br/><sub>P99 API<br/>Latency</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/W5eoZHPrUx2KQ/giphy.gif" width="50"/><br/>
-<b>5,500+</b><br/><sub>Lifetime<br/>Contributions</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="55"/><br/>
+      <h3><b>10+</b></h3>
+      <p><b>Production Web Apps</b><br/><sub>React, Next.js, Node.js</sub></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="55"/><br/>
+      <h3><b>100%</b></h3>
+      <p><b>Tamper-Proof</b><br/><sub>Smart Contracts</sub></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="55"/><br/>
+      <h3><b>IIT Mandi</b></h3>
+      <p><b>AI & Vision Research</b><br/><sub>V-JEPA, ViT, PyTorch</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="55"/><br/>
+      <h3><b>&lt; 120ms</b></h3>
+      <p><b>P99 API Latency</b><br/><sub>Redis, WebSockets, Scaling</sub></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="55"/><br/>
+      <h3><b>5,500+</b></h3>
+      <p><b>Lifetime Commits</b><br/><sub>Open Source & Enterprise</sub></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="55"/><br/>
+      <h3><b>99.9%</b></h3>
+      <p><b>System Uptime</b><br/><sub>Docker, CI/CD, DevOps</sub></p>
+    </td>
+  </tr>
 </table>
 
 </div>
