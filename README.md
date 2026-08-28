@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kapildev1012/kapildev1012/main/assets/header.svg" alt="Kapil Dev — Full Stack Software Engineer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/kapildev1012/kapildev1012/main/assets/header.png" alt="Kapil Dev — Full Stack Software Engineer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Kapil Dev 👋</h1>
