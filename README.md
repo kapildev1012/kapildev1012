@@ -25,117 +25,52 @@ Results-driven **Full Stack Software Engineer** and **Technical Founder** with 2
 
 - 🚀 **Production Track Record:** Delivered **10+ production-grade web systems and dApps** across e-commerce, crowdfunding, real-time media streaming, decentralized voting, and IoT/robotics.
 - 🏗️ **System Architecture:** Deep expertise in RESTful & GraphQL API architecture, microservices, WebRTC peer-to-peer streaming, WebSocket bi-directional communication, JWT authentication, and Role-Based Access Control (RBAC).
-- 🧠 **AI/ML & Automation:** Experienced in OpenCV, NumPy, Scikit-learn, speech recognition, and custom computer vision pipelines for facial biometrics and automation.
+- 🧠 **AI/ML & Automation:** Experienced in OpenCV, NumPy, Scikit-learn, PyTorch, Vision Transformers, and custom computer vision pipelines for biometric identification and research.
 - 🔗 **Web3 & Blockchain:** Smart contract engineering (Solidity, Hardhat, Ethers.js, Web3.js) with decentralized storage and cryptographic verification.
 
 ---
 
-## 🚀 Featured Products & Repositories
+## 🏆 Featured Research & Projects
 
-An overview of open-source projects, decentralized platforms, and production systems:
+### 🧠 [AI & Self-Supervised Learning Research (IIT Mandi)](https://github.com/kapildev1012)
+**Tech Stack:** `Python` `PyTorch` `Vision Transformers (ViT)` `V-JEPA` `I-JEPA` `Deep Learning`
+* **Research Focus:** Conducted execution and evaluation of advanced electroencephalogram (EEG) classification scripts and self-supervised vision models.
+* **Impact:** Leveraged state-of-the-art Joint-Embedding Predictive Architectures (V-JEPA/I-JEPA) to enhance computer vision and temporal data evaluation metrics.
 
-| Project Name | Category & Domain | Primary Tech Stack | Live Demo / Repo |
-|:---|:---|:---|:---:|
-| **[Voting DApp](#-decentralized-voting-application-voting)** | Web3 / Blockchain / E-Voting | `Solidity` `Ethereum` `Web3.js` `React` `Node.js` | [💻 Repository](https://github.com/kapildev1012/voting) |
-| **[The Wellfire](#-the-wellfire-media-investment-portal-wellfirenew2)** | Fintech / Crowdfunding / SaaS | `React.js` `Node.js` `Express` `MongoDB` `Razorpay` | [🌐 Live App](https://wellfire-new2.vercel.app) • [💻 Repo](https://github.com/kapildev1012/wellfire.new2) |
-| **[Forever E-Commerce](#-forever-full-stack-e-commerce-forever-full-stack_1)** | Production MERN E-Commerce | `React` `Next.js` `Node.js` `MongoDB` `Stripe` | [💻 Repository](https://github.com/kapildev1012/forever-full-stack_1) |
-| **[Filmora Movie Streaming](#-filmora-movie-discovery--streaming-engine-filmoramovie)** | Entertainment / Media Streaming | `TypeScript` `Next.js` `React` `TMDB API` `Tailwind` | [🌐 Live App](https://filmoramovie.vercel.app) • [💻 Repo](https://github.com/kapildev1012/filmoramovie) |
-| **[Jarvis AI Assistant](#-jarvis-ai-virtual-assistant-jarvis)** | AI/ML / NLP & Speech Automation | `Python` `NLP` `SpeechRecognition` `OpenCV` `OS API` | [💻 Repository](https://github.com/kapildev1012/jarvis) |
-| **[3D Graphics & Simulation](#-3d-graphics--spatial-simulation-engine-3d)** | Computer Vision / 3D Graphics | `JavaScript` `WebGL` `Three.js` `MATLAB` `MathLib` | [💻 Repository](https://github.com/kapildev1012/3d) |
-| **[Robotics Locomotion](#-robotics-locomotion--kinematics-system-locomotion)** | Robotics & Kinematics Control | `C++` `Robotics Kinematics` `Physics Engine` `Algorithms` | [💻 Repository](https://github.com/kapildev1012/locomotion) |
-| **[HotSpot Real-Time Delivery](#-hotspot-real-time-food-delivery-hotspotnew)** | Real-Time Geolocation Delivery | `TypeScript` `React` `Node.js` `WebRTC` `Socket.io` | [💻 Repository](https://github.com/kapildev1012/hotspot.new) |
-| **[WoodKing Enterprise Portal](#-woodking-bespoke-furniture-portal-woodking)** | Enterprise E-Commerce Catalog | `JavaScript` `React` `Node.js` `Express` `MongoDB` | [💻 Repository](https://github.com/kapildev1012/WOODKING) |
-| **[Devil's Movies Portal](#-devils-movies-cinema-ui-devilsmovies)** | Front-End Multimedia UI/UX | `HTML5` `CSS3 / Grid` `JavaScript` `Responsive UI` | [💻 Repository](https://github.com/kapildev1012/devilsmovies) |
-| **[Interactive Portfolio](#-developer-portfolio-platform-portfolio)** | Personal Branding & UI Platform | `React.js` `Next.js` `Framer Motion` `Tailwind CSS` | [🌐 Live App](https://kapildev1012.vercel.app) • [💻 Repo](https://github.com/kapildev1012/portfolio) |
-| **[GitLab CI/CD Pipelines](#-devops--automated-cicd-pipelines-gitlab-project)** | Cloud & DevOps Automation | `GitLab CI` `Docker` `Shell Scripting` `YAML` | [💻 Repository](https://github.com/kapildev1012/gitlab-project) |
+### 🤖 [Locomotion: Tensegrity Robotics Simulation](https://github.com/kapildev1012/locomotion)
+**Tech Stack:** `C++` `Physics Simulation` `macOS (MPS Acceleration)` `Robotics Kinematics`
+* **Architecture:** Developed highly optimized physics simulation wrappers and custom build configurations for complex 6-bar and 18-bar tensegrity structures.
+* **Optimization:** Configured custom C++ build paths and terminal environment variables to accelerate computational physics rendering.
 
----
+### 💻 [Wellfire: Commercial Full-Stack Web Application](https://github.com/kapildev1012/wellfire.new2)
+**Tech Stack:** `React.js` `Node.js` `Express` `MongoDB` `REST APIs` `Tailwind CSS` • [🌐 Live Demo](https://wellfire-new2.vercel.app)
+* **Development:** Engineered a complete production-grade web application for a commercial client in Delhi.
+* **System Design:** Architected scalable database schemas, robust backend controllers, and responsive frontend interface setups.
 
-### Project Spotlights & Architecture
+### 👁️ [Computer Vision Biometric Security Systems](https://github.com/kapildev1012/jarvis)
+**Tech Stack:** `Python` `OpenCV` `Facial Recognition` `Machine Learning` `Flask`
+* **Implementation:** Built a dual-purpose Facial Recognition Attendance System and Face Recognition Surveillance System.
+* **Performance:** Implemented real-time video frame processing pipelines using OpenCV for high-accuracy biometric identification.
 
-#### 🗳️ [Decentralized Voting Application (voting)](https://github.com/kapildev1012/voting)
-- **Overview:** Decentralized, tamper-proof electronic voting platform engineered using Ethereum Smart Contracts, Solidity, Web3.js, React.js, and Node.js.
-- **Key Capabilities:**
-  - Cryptographic voter authentication and ballot casting with zero double-voting vulnerability.
-  - Transparent on-chain tallying with immutable distributed ledger storage.
-  - Interactive Web3 frontend connecting MetaMask wallets directly to contract ABI interfaces.
-- **Keywords:** `Blockchain`, `Solidity`, `Smart Contracts`, `Web3.js`, `Ethereum`, `MetaMask`, `DApp`, `Cryptography`.
+### ⚙️ [Robotic Hand Assembly & Hardware Integration](https://github.com/kapildev1012/locomotion)
+**Tech Stack:** `Hardware Engineering` `Circuit Design` `Actuator Control` `Robotics` `Embedded C++`
+* **Hardware Engineering:** Analyzed hardware components, circuit requirements, and working mechanisms for a multi-actuator robotic hand assembly.
+* **Integration:** Bridged the gap between software control scripts and physical hardware execution.
 
-#### 💼 [The Wellfire Media Investment Portal (wellfire.new2)](https://github.com/kapildev1012/wellfire.new2)
-- **Live URL:** [https://wellfire-new2.vercel.app](https://wellfire-new2.vercel.app)
-- **Overview:** Full-stack media crowdfunding & investment platform connecting content creators with accredited investors.
-- **Key Capabilities:**
-  - Strict Role-Based Access Control (RBAC) separating Investor, Creator, and Administrator dashboards.
-  - Razorpay payment gateway integration, secure transaction processing, and automated ledger receipts.
-  - Dynamic analytics charts displaying project campaign funding metrics and milestone timelines.
-- **Keywords:** `FinTech`, `Crowdfunding`, `MERN Stack`, `RBAC`, `Payment Gateway`, `Vercel`, `REST APIs`.
+### 🔗 [Decentralized Student Voting System](https://github.com/kapildev1012/voting)
+**Tech Stack:** `Solidity` `Ethereum` `Web3.js` `React.js` `Smart Contracts` `Distributed Systems`
+* **Security:** Developed a secure, tamper-proof voting system architecture leveraging blockchain technology.
+* **System Design:** Ensured transparent and immutable record-keeping for organizational elections with zero double-voting vulnerability.
 
-#### 🛍️ [Forever Full-Stack E-Commerce (forever-full-stack_1)](https://github.com/kapildev1012/forever-full-stack_1)
-- **Overview:** Production-ready MERN enterprise e-commerce platform built for high concurrency and seamless user journeys.
-- **Key Capabilities:**
-  - End-to-end shopping experience: dynamic catalog filtering, multi-item cart management, and Stripe checkout.
-  - Comprehensive Admin Panel for product inventory management, stock alerts, and order fulfillment status updates.
-  - JWT token-based authentication with bcrypt password hashing and MongoDB indexing for sub-second query latency.
-- **Keywords:** `E-Commerce`, `Stripe Payments`, `MERN Stack`, `JWT`, `Redux Toolkit`, `Inventory Control`.
+### 🎬 [Filmora: Web Streaming Platform Architecture](https://github.com/kapildev1012/filmoramovie)
+**Tech Stack:** `TypeScript` `Next.js` `TMDB API` `System Architecture` `SEO Optimization` • [🌐 Live Demo](https://filmoramovie.vercel.app)
+* **Platform Design:** Explored the design, UI prompt formulation, and backend web architectures for an online media streaming platform.
+* **Strategy:** Integrated deep search engine optimization (SEO) strategies directly into the platform's architectural blueprint.
 
-#### 🎬 [Filmora Movie Discovery & Streaming Engine (filmoramovie)](https://github.com/kapildev1012/filmoramovie)
-- **Live URL:** [https://filmoramovie.vercel.app](https://filmoramovie.vercel.app)
-- **Overview:** Modern entertainment discovery portal engineered with TypeScript, Next.js, and TMDB REST APIs.
-- **Key Capabilities:**
-  - Real-time search, category filtering, trending cinema algorithms, and multi-language subtitle previews.
-  - Optimized client-side caching and Next.js Server-Side Rendering (SSR) for fast page loading and SEO indexing.
-- **Keywords:** `TypeScript`, `Next.js`, `TMDB API`, `SSR`, `Entertainment SaaS`, `Responsive UI`.
-
-#### 🤖 [Jarvis AI Virtual Assistant (jarvis)](https://github.com/kapildev1012/jarvis)
-- **Overview:** Python-powered intelligent voice assistant utilizing Speech Recognition, Natural Language Processing (NLP), and OS-level system automation.
-- **Key Capabilities:**
-  - Voice-activated task automation, real-time web querying, Wikipedia lookups, and multimedia playback.
-  - Extensible modular architecture allowing custom skills, computer vision triggers, and automated system commands.
-- **Keywords:** `Python`, `Artificial Intelligence`, `NLP`, `Speech Recognition`, `System Automation`.
-
-#### 📐 [3D Graphics & Spatial Simulation Engine (3d)](https://github.com/kapildev1012/3d)
-- **Overview:** High-performance spatial geometry and 3D simulation pipeline implementing WebGL, Three.js, and MATLAB mathematical computing models.
-- **Key Capabilities:**
-  - Real-time 3D coordinate transformations, mesh rendering, matrix manipulations, and interactive lighting physics.
-- **Keywords:** `3D Visualization`, `WebGL`, `Three.js`, `MATLAB`, `Matrix Mathematics`, `Simulation`.
-
-#### 🦾 [Robotics Locomotion & Kinematics System (locomotion)](https://github.com/kapildev1012/locomotion)
-- **Overview:** Computational C++ algorithmic engine for multi-joint robotic kinematics, trajectory calculations, and locomotion physics simulations.
-- **Key Capabilities:**
-  - Forward and inverse kinematics solvers with high numerical precision and low CPU overhead.
-- **Keywords:** `C++`, `Robotics`, `Kinematics`, `Trajectory Planning`, `Physics Simulation`, `Algorithms`.
-
-#### 🍔 [HotSpot Real-Time Food Delivery (hotspot.new)](https://github.com/kapildev1012/hotspot.new)
-- **Overview:** Real-time food ordering and live dispatch tracking application built with TypeScript, React, and WebSocket/WebRTC communication.
-- **Key Capabilities:**
-  - Bi-directional order status updates between restaurants, drivers, and consumers.
-  - Dynamic interactive cart, menu modifiers, and geolocation routing.
-- **Keywords:** `Real-Time Systems`, `WebRTC`, `Socket.io`, `TypeScript`, `Geolocation`, `Full-Stack`.
-
-#### 🪵 [WoodKing Bespoke Furniture Portal (WOODKING)](https://github.com/kapildev1012/WOODKING)
-- **Overview:** Full-stack enterprise e-commerce platform for custom furniture ordering, woodwork portfolio management, and quotation generation.
-- **Key Capabilities:**
-  - Dynamic product catalog, customer quotation request engine, and administrative content management.
-- **Keywords:** `E-Commerce`, `React.js`, `Node.js`, `Express`, `MongoDB`, `Enterprise Web`.
-
-#### 🍿 [Devil's Movies Cinema UI (devilsmovies)](https://github.com/kapildev1012/devilsmovies)
-- **Overview:** Interactive multimedia web UI featuring customized dark-mode aesthetic styling, CSS grid animations, and fluid media viewers.
-- **Key Capabilities:**
-  - High-performance responsive UI optimized for low-latency rendering across diverse browser engines.
-- **Keywords:** `Front-End Engineering`, `CSS3 Grid`, `JavaScript`, `Dark Mode UI`, `Web Animation`.
-
-#### 🌐 [Developer Portfolio Platform (portfolio)](https://github.com/kapildev1012/portfolio)
-- **Live URL:** [https://kapildev1012.vercel.app](https://kapildev1012.vercel.app)
-- **Overview:** Interactive developer portfolio showcasing engineering capabilities, client case studies, live previews, and contact endpoints.
-- **Key Capabilities:**
-  - Responsive design, fluid Framer Motion transitions, and continuous deployment via Vercel.
-- **Keywords:** `Portfolio`, `React`, `Next.js`, `UI/UX Design`, `Vercel Deployment`.
-
-#### ⚙️ [DevOps & Automated CI/CD Pipelines (gitlab-project)](https://github.com/kapildev1012/gitlab-project)
-- **Overview:** Continuous Integration and Continuous Deployment infrastructure automation scripts and containerized build setups.
-- **Key Capabilities:**
-  - Multi-stage pipeline definitions, automated testing scripts, and container packaging.
-- **Keywords:** `DevOps`, `CI/CD`, `Docker`, `GitLab CI`, `Automation`, `Bash Scripting`.
+### 🛍️ [Forever: Production Full-Stack MERN E-Commerce](https://github.com/kapildev1012/forever-full-stack_1)
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Stripe Payments` `Redux Toolkit`
+* **Commerce Pipeline:** Developed a high-concurrency e-commerce store with catalog filtering, shopping cart state management, and Stripe checkout.
+* **Administration:** Built a dedicated management portal for inventory auditing, product additions, and order tracking.
 
 ---
 
@@ -208,6 +143,7 @@ An overview of open-source projects, decentralized platforms, and production sys
     <tr>
       <td><strong>AI, ML & Vision</strong></td>
       <td>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
@@ -236,8 +172,8 @@ An overview of open-source projects, decentralized platforms, and production sys
 > [!NOTE]
 > Designed for optimal parsing by Applicant Tracking Systems (ATS) including Greenhouse, Lever, Workday, Taleo, and iCIMS.
 
-- **Role Titles:** Senior Full Stack Engineer, MERN Stack Developer, Frontend Software Engineer, Backend Engineer, Next.js / React Specialist, Web3 / Blockchain Developer, Python AI Engineer.
-- **Core Competencies:** Full-Stack Web Development, Distributed System Architecture, Microservices, RESTful API Design & Integration, GraphQL, Database Normalization & Query Optimization, WebSockets, WebRTC P2P Protocols, Smart Contract Auditing & Deployment, State Management (Redux/Zustand), Responsive UI/UX Design, Cross-Browser Compatibility, Continuous Integration & Continuous Deployment (CI/CD), Automated Unit & Integration Testing.
+- **Role Titles:** Senior Full Stack Engineer, MERN Stack Developer, Frontend Software Engineer, Backend Engineer, Next.js / React Specialist, Web3 / Blockchain Developer, Python AI & Robotics Engineer.
+- **Core Competencies:** Full-Stack Web Development, Distributed System Architecture, Microservices, RESTful API Design & Integration, GraphQL, Database Normalization & Query Optimization, WebSockets, WebRTC P2P Protocols, Smart Contract Auditing & Deployment, State Management (Redux/Zustand), Responsive UI/UX Design, Cross-Browser Compatibility, Continuous Integration & Continuous Deployment (CI/CD), Automated Unit & Integration Testing, Self-Supervised Learning (ViT, V-JEPA, I-JEPA).
 - **Engineering Principles:** Object-Oriented Programming (OOP), Functional Programming, Clean Architecture, SOLID Principles, Agile/Scrum Methodologies, Test-Driven Development (TDD), Version Control (Git/GitHub), Security Best Practices (CORS, CSRF, JWT, XSS Mitigation).
 
 ---
