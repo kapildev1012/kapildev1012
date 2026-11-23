@@ -43,7 +43,7 @@
         Since 2023 I've run <b>Zippin Full-Stack Solutions</b>, shipping web apps for real clients from the first call to deployment. I'm now building <b>BREWD</b>, a co-ownership marketplace that helps people in Himachal open cafés, bakeries and co-living spaces with community capital and skills.
       </p>
       <p>
-        In summer 2026 I was a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering, under Dr. Arnav Bhavsar), working on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models, and on simulating tensegrity robots.
+        I'm a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering). In summer 2026 I worked on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models under Dr. Arnav Bhavsar, and since August 2026 I've been working on tensegrity robot locomotion and control under Dr. Narendra Kumar Dhar.
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -58,7 +58,10 @@ const developer = {
   location:  "Hamirpur, Himachal Pradesh, India",
   education: "B.Tech CSE, HPTU (2023–2027)",
   roles:     ["Founder @ BREWD", "Founder & Lead Developer @ Zippin Full-Stack Solutions"],
-  research:  "Research Intern, IIT Mandi (Jun–Aug 2026): EEG-to-Video, I-JEPA / V-JEPA",
+  research:  [
+    "Research Intern, IIT Mandi (Jun–Aug 2026): EEG-to-Video, I-JEPA / V-JEPA (Dr. Arnav Bhavsar)",
+    "Research Intern, IIT Mandi (Aug 2026–present): tensegrity robot locomotion (Dr. Narendra Kumar Dhar)"
+  ],
 
   technologies: {
     languages:  ["TypeScript", "JavaScript", "Python", "C++"],
@@ -157,7 +160,7 @@ const developer = {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Tensegrity Rover Simulator</h3>
-      <p align="center"><em>3D browser physics simulation</em></p>
+      <p align="center"><em>Research Intern, IIT Mandi · with Dr. Narendra Kumar Dhar</em></p>
       <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
         <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
@@ -172,7 +175,7 @@ const developer = {
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🦾 Adaptive Tensegrity Locomotion</h3>
-      <p align="center"><em>Built on NASA's NTRTsim</em></p>
+      <p align="center"><em>IIT Mandi research · built on NASA's NTRTsim</em></p>
       <div align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Bullet_Physics-555?style=flat-square" />
@@ -301,7 +304,14 @@ const developer = {
   <ul>
     <li>EEG-to-Video Reconstruction at the School of Computing and Electrical Engineering, guided by Dr. Arnav Bhavsar.</li>
     <li>Worked with self-supervised I-JEPA and V-JEPA models and EEG signal classification in PyTorch.</li>
+  </ul>
+
+  <h3>🤖 &nbsp;Research Intern (Tensegrity Robotics) — <i>IIT Mandi</i></h3>
+  <p><code>Aug 2026 – Present</code> &nbsp;•&nbsp; Mandi, HP</p>
+  <ul>
+    <li>Tensegrity robot locomotion and control at the School of Computing and Electrical Engineering, guided by Dr. Narendra Kumar Dhar.</li>
     <li>Built a browser-based 3D simulator of a six-bar tensegrity rover with LQR, iLQR, MPC and RL controllers.</li>
+    <li>Extended NASA's NTRTsim (C++) with a robot that learns to pick its shape and plan routes over rough terrain.</li>
   </ul>
 
   <h3>🏢 &nbsp;Founder & Lead Developer — <i>Zippin Full-Stack Solutions</i></h3>
