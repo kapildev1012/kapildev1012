@@ -69,7 +69,6 @@ const developer = {
     data:       ["MongoDB", "Supabase / Postgres", "Redis"],
     mobile:     ["SwiftUI", "Jetpack Compose"],
     ai_ml:      ["PyTorch", "OpenCV", "ViT", "V-JEPA"],
-    robotics:   ["ROS 2", "Gazebo", "MATLAB"],
     web3:       ["Solidity", "Hardhat"],
     devOps:     ["Docker", "Vercel", "Render", "GitHub Actions"]
   },
@@ -173,22 +172,6 @@ const developer = {
       <p align="center"><a href="https://github.com/kapildev1012/ros2-multirobot-formation"><b>→ View Code</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🦾 2-Link Robot Arm</h3>
-      <p align="center"><em>Python · MATLAB</em></p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
-      </div>
-      <ul>
-        <li>Forward and inverse kinematics of a planar two-joint arm</li>
-        <li>A PID controller on each joint moves the tip to four target points</li>
-        <li>Each target reached in about 0.4 s with no overshoot</li>
-      </ul>
-      <p align="center"><a href="https://github.com/kapildev1012/robot-arm-kinematics"><b>→ View Code</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🗳️ Block Ballot</h3>
       <p align="center"><em>HPTU capstone · secure university voting</em></p>
       <div align="center">
@@ -206,6 +189,8 @@ const developer = {
         <a href="https://github.com/kapildev1012/voting"><b>💻 Code</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📦 SmartStock</h3>
       <p align="center"><em>Multi-store inventory system · client: Hotspot</em></p>
@@ -222,8 +207,6 @@ const developer = {
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/hotspot.new"><b>→ View Code</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎬 Wellfire Studios</h3>
       <p align="center"><em>Website and investor portal · client: Delhi film studio</em></p>
@@ -238,6 +221,8 @@ const developer = {
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/wellfire.new2"><b>→ View Code</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🪵 WoodKing</h3>
       <p align="center"><em>Catalogue and quotes · client: Himachal furniture business</em></p>
@@ -252,8 +237,6 @@ const developer = {
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/WOODKING"><b>→ View Code</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛰️ JARVIS-X</h3>
       <p align="center"><em>Personal AI agent orchestrator</em></p>
@@ -268,6 +251,8 @@ const developer = {
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/jarvis"><b>→ View Code</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">👁️ Computer Vision Projects</h3>
       <p align="center"><em>Client and university projects</em></p>
@@ -281,6 +266,7 @@ const developer = {
         <li>WebRTC virtual classroom with live document sharing</li>
       </ul>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
