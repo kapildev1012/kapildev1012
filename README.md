@@ -14,7 +14,7 @@
   <h3><b>I build software that small businesses run on, and I'm learning AI and robotics.</b></h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full-Stack+Engineer+%28MERN+%C2%B7+Next.js+%C2%B7+TypeScript%29;%F0%9F%8F%97%EF%B8%8F+Founder+%40+BREWD+%26+Zippin+Full-Stack+Solutions;%F0%9F%A7%A0+Ex-Research+Intern+%40+IIT+Mandi+%28EEG+%C2%B7+V-JEPA%29;%F0%9F%A4%96+Robotics+%C2%B7+ROS+2+%C2%B7+Gazebo+%C2%B7+MATLAB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full-Stack+Engineer+%28MERN+%C2%B7+Next.js+%C2%B7+TypeScript%29;%F0%9F%8F%97%EF%B8%8F+Founder+%40+BREWD+%26+Zippin+Full-Stack+Solutions;%F0%9F%A7%A0+Ex-Research+Intern+%40+IIT+Mandi+%28EEG+%C2%B7+V-JEPA%29;%F0%9F%A4%96+Robotics+Simulation+%C2%B7+Python" alt="Typing SVG" />
   </a>
 
   <p>
@@ -43,7 +43,7 @@
         Since 2023 I've run <b>Zippin Full-Stack Solutions</b>, shipping web apps for real clients from the first call to deployment. I'm now building <b>BREWD</b>, a co-ownership marketplace that helps people in Himachal open cafés, bakeries and co-living spaces with community capital and skills.
       </p>
       <p>
-        In summer 2026 I was a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering), working on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models under Dr. Arnav Bhavsar. I'm now building robotics simulation projects with ROS 2, Gazebo and MATLAB.
+        In summer 2026 I was a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering), working on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models under Prof. Arnav Bhavsar. I'm now building robotics simulation projects.
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -59,7 +59,7 @@ const developer = {
   education: "B.Tech CSE, HPTU (2023–2027)",
   roles:     ["Founder @ BREWD", "Founder & Lead Developer @ Zippin Full-Stack Solutions"],
   research:  [
-    "Research Intern, IIT Mandi (Jun–Aug 2026): EEG-to-Video, I-JEPA / V-JEPA (Dr. Arnav Bhavsar)"
+    "Research Intern, IIT Mandi (Jun–Aug 2026): EEG-to-Video, I-JEPA / V-JEPA (Prof. Arnav Bhavsar)"
   ],
 
   technologies: {
@@ -134,7 +134,7 @@ const developer = {
         <img src="https://img.shields.io/badge/V--JEPA-00599C?style=flat-square" />
       </div>
       <ul>
-        <li>EEG-to-Video Reconstruction under Dr. Arnav Bhavsar (SCEE, IIT Mandi)</li>
+        <li>EEG-to-Video Reconstruction under Prof. Arnav Bhavsar (SCEE, IIT Mandi)</li>
         <li>Self-supervised pre-training of a ViT-Small on TUH EEG spectrograms, following EEG-VJEPA (Hojjati et al., 2025)</li>
         <li>Pre-training loss fell from 0.847 to 0.031 over the first 17 epochs; evaluated with a linear probe on frozen features</li>
       </ul>
@@ -158,18 +158,17 @@ const developer = {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Multi-Robot Formation Control</h3>
-      <p align="center"><em>ROS 2 · Gazebo · MATLAB</em></p>
+      <p align="center"><em>Python · MATLAB</em></p>
       <div align="center">
-        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
       </div>
       <ul>
-        <li>Three TurtleBot3 robots keep a triangle while the leader drives a circle</li>
-        <li>Leader-follower: each follower uses a go-to-goal P-controller to stay in its spot</li>
-        <li>Same controller in Python, MATLAB and a ROS 2 node; followers stay within ~8 cm</li>
+        <li>Three simulated robots keep a triangle while the leader drives a circle</li>
+        <li>Each follower uses a go-to-goal P-controller on distance and heading error to hold its spot</li>
+        <li>Same controller in Python and MATLAB, with unit tests and GitHub Actions; followers stay within ~8 cm</li>
       </ul>
-      <p align="center"><a href="https://github.com/kapildev1012/ros2-multirobot-formation"><b>→ View Code</b></a></p>
+      <p align="center"><a href="https://github.com/kapildev1012/multi-robot-formation-control"><b>→ View Code</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🗳️ Block Ballot</h3>
@@ -286,7 +285,7 @@ const developer = {
   <h3>🔬 &nbsp;Research Intern — <i>IIT Mandi</i></h3>
   <p><code>Jun 2026 – Aug 2026</code> &nbsp;•&nbsp; Mandi, HP</p>
   <ul>
-    <li>EEG-to-Video Reconstruction at the School of Computing and Electrical Engineering, guided by Dr. Arnav Bhavsar.</li>
+    <li>EEG-to-Video Reconstruction at the School of Computing and Electrical Engineering, guided by Prof. Arnav Bhavsar.</li>
     <li>Worked with self-supervised I-JEPA and V-JEPA models and EEG signal classification in PyTorch.</li>
   </ul>
 
