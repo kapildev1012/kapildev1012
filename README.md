@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  K A P I L   D E V  —  @kapildev1012                                    ║ -->
-<!-- ║  Full-Stack Engineer · AI & Robotics Research                            ║ -->
+<!-- ║  Full-Stack Engineer · AI & Robotics                                     ║ -->
 <!-- ║  Founder @ BREWD and Zippin Full-Stack Solutions                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
@@ -11,10 +11,10 @@
     Hi, I'm Kapil Dev <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="38" align="center">
   </h1>
 
-  <h3><b>I build software that small businesses run on, and I do research in AI and robotics.</b></h3>
+  <h3><b>I build software that small businesses run on, and I'm learning AI and robotics.</b></h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full-Stack+Engineer+%28MERN+%C2%B7+Next.js+%C2%B7+TypeScript%29;%F0%9F%8F%97%EF%B8%8F+Founder+%40+BREWD+%26+Zippin+Full-Stack+Solutions;%F0%9F%A7%A0+Ex-Research+Intern+%40+IIT+Mandi+%28EEG+%C2%B7+V-JEPA%29;%F0%9F%A4%96+Tensegrity+Robotics+%C2%B7+MPC+%C2%B7+Reinforcement+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full-Stack+Engineer+%28MERN+%C2%B7+Next.js+%C2%B7+TypeScript%29;%F0%9F%8F%97%EF%B8%8F+Founder+%40+BREWD+%26+Zippin+Full-Stack+Solutions;%F0%9F%A7%A0+Ex-Research+Intern+%40+IIT+Mandi+%28EEG+%C2%B7+V-JEPA%29;%F0%9F%A4%96+Robotics+%C2%B7+ROS+2+%C2%B7+Gazebo+%C2%B7+CARLA+%C2%B7+Raspberry+Pi" alt="Typing SVG" />
   </a>
 
   <p>
@@ -43,7 +43,7 @@
         Since 2023 I've run <b>Zippin Full-Stack Solutions</b>, shipping web apps for real clients from the first call to deployment. I'm now building <b>BREWD</b>, a co-ownership marketplace that helps people in Himachal open cafés, bakeries and co-living spaces with community capital and skills.
       </p>
       <p>
-        I'm a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering). In summer 2026 I worked on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models under Dr. Arnav Bhavsar, and since August 2026 I've been working on tensegrity robot locomotion and control under Dr. Narendra Kumar Dhar.
+        In summer 2026 I was a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering), working on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models under Dr. Arnav Bhavsar. I'm now building hands-on robotics projects with ROS 2, Gazebo, CARLA, MATLAB and Raspberry Pi.
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -59,8 +59,7 @@ const developer = {
   education: "B.Tech CSE, HPTU (2023–2027)",
   roles:     ["Founder @ BREWD", "Founder & Lead Developer @ Zippin Full-Stack Solutions"],
   research:  [
-    "Research Intern, IIT Mandi (Jun–Aug 2026): EEG-to-Video, I-JEPA / V-JEPA (Dr. Arnav Bhavsar)",
-    "Research Intern, IIT Mandi (Aug 2026–present): tensegrity robot locomotion (Dr. Narendra Kumar Dhar)"
+    "Research Intern, IIT Mandi (Jun–Aug 2026): EEG-to-Video, I-JEPA / V-JEPA (Dr. Arnav Bhavsar)"
   ],
 
   technologies: {
@@ -70,7 +69,7 @@ const developer = {
     data:       ["MongoDB", "Supabase / Postgres", "Redis"],
     mobile:     ["SwiftUI", "Jetpack Compose"],
     ai_ml:      ["PyTorch", "OpenCV", "ViT", "V-JEPA"],
-    robotics:   ["LQR / iLQR", "MPC", "Reinforcement Learning", "NTRTsim"],
+    robotics:   ["ROS 2", "Gazebo", "CARLA", "Raspberry Pi", "MATLAB"],
     web3:       ["Solidity", "Hardhat"],
     devOps:     ["Docker", "Vercel", "Render", "GitHub Actions"]
   },
@@ -159,34 +158,33 @@ const developer = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Tensegrity Rover Simulator</h3>
-      <p align="center"><em>Research Intern, IIT Mandi · with Dr. Narendra Kumar Dhar</em></p>
+      <h3 align="center">🤖 Multi-Robot Formation Control</h3>
+      <p align="center"><em>ROS 2 · Gazebo · MATLAB</em></p>
       <div align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" />
         <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
-        <img src="https://img.shields.io/badge/MPC_%2F_RL-555?style=flat-square" />
       </div>
       <ul>
-        <li>Six-strut, 24-cable rover with a custom 500 Hz physics engine and Earth, Moon and Mars gravity</li>
-        <li>LQR, iLQR, QP-MPC, neural and RL locomotion controllers</li>
-        <li>Energy-audited research mode with benchmark tools that export IEEE-ready figures</li>
+        <li>Three TurtleBot3 robots hold a triangle formation while following a path</li>
+        <li>Consensus control: each robot only uses its neighbours' positions</li>
+        <li>Same controller in Python, MATLAB and a ROS 2 node; error drops to ~5 mm</li>
       </ul>
-      <p align="center"><a href="https://github.com/kapildev1012/3d"><b>→ View Simulator</b></a></p>
+      <p align="center"><a href="https://github.com/kapildev1012/ros2-multirobot-formation"><b>→ View Code</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🦾 Adaptive Tensegrity Locomotion</h3>
-      <p align="center"><em>IIT Mandi research · built on NASA's NTRTsim</em></p>
+      <h3 align="center">🦾 Robotics Basics</h3>
+      <p align="center"><em>Robot arm · CARLA · Raspberry Pi</em></p>
       <div align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bullet_Physics-555?style=flat-square" />
-        <img src="https://img.shields.io/badge/RL-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CARLA-555?style=flat-square" />
+        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
       </div>
       <ul>
-        <li>Six-bar icosahedral robot that learns to pick its shape and travel from A to B over rough terrain</li>
-        <li>Terrain-aware A* route planning with a predictive, tension-aware control layer</li>
-        <li>Earth, Moon-like and Mars-like gravity, with a full train / validate / test framework</li>
+        <li><a href="https://github.com/kapildev1012/robot-arm-kinematics">2-link robot arm</a>: kinematics, PD and computed-torque control</li>
+        <li><a href="https://github.com/kapildev1012/carla-autonomous-basics">CARLA driving</a>: PID speed control and Pure Pursuit steering</li>
+        <li><a href="https://github.com/kapildev1012/raspberry-pi-robotics">Raspberry Pi robot</a>: GPIO, ultrasonic sensor, obstacle avoidance</li>
       </ul>
-      <p align="center"><a href="https://github.com/kapildev1012/locomotion"><b>→ View Research Platform</b></a></p>
     </td>
   </tr>
   <tr>
@@ -304,14 +302,6 @@ const developer = {
   <ul>
     <li>EEG-to-Video Reconstruction at the School of Computing and Electrical Engineering, guided by Dr. Arnav Bhavsar.</li>
     <li>Worked with self-supervised I-JEPA and V-JEPA models and EEG signal classification in PyTorch.</li>
-  </ul>
-
-  <h3>🤖 &nbsp;Research Intern (Tensegrity Robotics) — <i>IIT Mandi</i></h3>
-  <p><code>Aug 2026 – Present</code> &nbsp;•&nbsp; Mandi, HP</p>
-  <ul>
-    <li>Tensegrity robot locomotion and control at the School of Computing and Electrical Engineering, guided by Dr. Narendra Kumar Dhar.</li>
-    <li>Built a browser-based 3D simulator of a six-bar tensegrity rover with LQR, iLQR, MPC and RL controllers.</li>
-    <li>Extended NASA's NTRTsim (C++) with a robot that learns to pick its shape and plan routes over rough terrain.</li>
   </ul>
 
   <h3>🏢 &nbsp;Founder & Lead Developer — <i>Zippin Full-Stack Solutions</i></h3>
