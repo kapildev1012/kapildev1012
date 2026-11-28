@@ -14,7 +14,7 @@
   <h3><b>I build software that small businesses run on, and I'm learning AI and robotics.</b></h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full-Stack+Engineer+%28MERN+%C2%B7+Next.js+%C2%B7+TypeScript%29;%F0%9F%8F%97%EF%B8%8F+Founder+%40+BREWD+%26+Zippin+Full-Stack+Solutions;%F0%9F%A7%A0+Ex-Research+Intern+%40+IIT+Mandi+%28EEG+%C2%B7+V-JEPA%29;%F0%9F%A4%96+Robotics+%C2%B7+ROS+2+%C2%B7+Gazebo+%C2%B7+CARLA+%C2%B7+Raspberry+Pi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%E2%9A%A1+Full-Stack+Engineer+%28MERN+%C2%B7+Next.js+%C2%B7+TypeScript%29;%F0%9F%8F%97%EF%B8%8F+Founder+%40+BREWD+%26+Zippin+Full-Stack+Solutions;%F0%9F%A7%A0+Ex-Research+Intern+%40+IIT+Mandi+%28EEG+%C2%B7+V-JEPA%29;%F0%9F%A4%96+Robotics+%C2%B7+ROS+2+%C2%B7+Gazebo+%C2%B7+CARLA+%C2%B7+MATLAB" alt="Typing SVG" />
   </a>
 
   <p>
@@ -43,7 +43,7 @@
         Since 2023 I've run <b>Zippin Full-Stack Solutions</b>, shipping web apps for real clients from the first call to deployment. I'm now building <b>BREWD</b>, a co-ownership marketplace that helps people in Himachal open cafés, bakeries and co-living spaces with community capital and skills.
       </p>
       <p>
-        In summer 2026 I was a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering), working on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models under Dr. Arnav Bhavsar. I'm now building hands-on robotics projects with ROS 2, Gazebo, CARLA, MATLAB and Raspberry Pi.
+        In summer 2026 I was a <b>research intern at IIT Mandi</b> (School of Computing and Electrical Engineering), working on EEG-to-Video Reconstruction with self-supervised I-JEPA and V-JEPA models under Dr. Arnav Bhavsar. I'm now building robotics simulation projects with ROS 2, Gazebo, CARLA and MATLAB.
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -69,7 +69,7 @@ const developer = {
     data:       ["MongoDB", "Supabase / Postgres", "Redis"],
     mobile:     ["SwiftUI", "Jetpack Compose"],
     ai_ml:      ["PyTorch", "OpenCV", "ViT", "V-JEPA"],
-    robotics:   ["ROS 2", "Gazebo", "CARLA", "Raspberry Pi", "MATLAB"],
+    robotics:   ["ROS 2", "Gazebo", "CARLA", "MATLAB"],
     web3:       ["Solidity", "Hardhat"],
     devOps:     ["Docker", "Vercel", "Render", "GitHub Actions"]
   },
@@ -174,16 +174,15 @@ const developer = {
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🦾 Robotics Basics</h3>
-      <p align="center"><em>Robot arm · CARLA · Raspberry Pi</em></p>
+      <p align="center"><em>Robot arm · CARLA simulator</em></p>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CARLA-555?style=flat-square" />
-        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
       </div>
       <ul>
         <li><a href="https://github.com/kapildev1012/robot-arm-kinematics">2-link robot arm</a>: forward / inverse kinematics and PID joint control</li>
         <li><a href="https://github.com/kapildev1012/carla-autonomous-basics">CARLA driving</a>: PID speed control and Pure Pursuit steering</li>
-        <li><a href="https://github.com/kapildev1012/raspberry-pi-robotics">Raspberry Pi robot</a>: GPIO, ultrasonic sensor, obstacle avoidance</li>
       </ul>
     </td>
   </tr>
