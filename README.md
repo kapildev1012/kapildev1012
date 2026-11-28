@@ -166,9 +166,9 @@ const developer = {
         <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
       </div>
       <ul>
-        <li>Three TurtleBot3 robots hold a triangle formation while following a path</li>
-        <li>Consensus control: each robot only uses its neighbours' positions</li>
-        <li>Same controller in Python, MATLAB and a ROS 2 node; error drops to ~5 mm</li>
+        <li>Three TurtleBot3 robots keep a triangle while the leader drives a circle</li>
+        <li>Leader-follower: each follower uses a go-to-goal P-controller to stay in its spot</li>
+        <li>Same controller in Python, MATLAB and a ROS 2 node; followers stay within ~8 cm</li>
       </ul>
       <p align="center"><a href="https://github.com/kapildev1012/ros2-multirobot-formation"><b>→ View Code</b></a></p>
     </td>
@@ -181,7 +181,7 @@ const developer = {
         <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
       </div>
       <ul>
-        <li><a href="https://github.com/kapildev1012/robot-arm-kinematics">2-link robot arm</a>: kinematics, PD and computed-torque control</li>
+        <li><a href="https://github.com/kapildev1012/robot-arm-kinematics">2-link robot arm</a>: forward / inverse kinematics and PID joint control</li>
         <li><a href="https://github.com/kapildev1012/carla-autonomous-basics">CARLA driving</a>: PID speed control and Pure Pursuit steering</li>
         <li><a href="https://github.com/kapildev1012/raspberry-pi-robotics">Raspberry Pi robot</a>: GPIO, ultrasonic sensor, obstacle avoidance</li>
       </ul>
